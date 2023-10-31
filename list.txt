@@ -1,0 +1,149 @@
+to consider:
+YUNG's stuff
+waystones
+utilitix
+twilight forest
+travel anchors
+tetra
+silent gear
+spice of life carrot ed
+rftools
+Reliquary
+potions master
+PNCR
+Mahou Tsukai
+pipez
+industrial foregoing
+EvilCraft
+Energy Meter
+Dungeon Crawl
+Domum Ornamentum
+Aquaculture 2
+Alchemistry
+
+create addons:
+steam n' rails
+crafts & additions
+enchantment industry
+track map
+Misc and Things
+Extractinator
+Bells & Whistles
+
+sinytra:
+tinkerer's smithing
+
+
+test out:
+JEMI with native EMI addons
+
+add(done already, except for ones that are indented):
+trash slot
+trash cans
+torchmaster
+toast control
+time in a bottle(look at config)
+sophisticated storage and backpacks
+simply lights
+simple magnets
+fastback
+    shrink(or alternative)
+Repurposed Structures
+Rechiseled
+    oauth
+    quark
+pylons
+Polymorph
+platforms
+    hex casting
+NaturesCompass
+Naturalist
+MyServerIsCompatible
+MrCrayfish's Furniture Mod
+    light-overlay on mr
+More Dragon Eggs
+Modular Routers
+model gap fix
+mob grinding utils
+Mob Despawn Timers
+MmmMmmMmmmmm
+Measurements
+ME Requester
+Macaw's deco mods
+little logistics&contraptions
+Let Me Despawn
+xnet
+Jumpy Boats
+journeymap(optionalize)
+Iron Jetpacks
+Iron Furnaces(if configurable)
+Inventory Profiles Next(optionalize)
+integrated dynamics&co
+Hostile Neural Networks
+Harvest with ease
+    Health Overlay alternative
+Handcrafted
+Gravitational Modulating Additional Unit
+    Glassential
+https://modrinth.com/mod/get-it-together-drops
+Game Menu Mod Option
+Functional Storage
+Fuel Goes Here
+FramedBlocks
+Flux Networks
+FindMe
+FlickerFix
+FastLeafDecay
+the three fast suites
+farming for blockheads
+Extreme sound muffler
+Fix Experience Bug
+EnderTanks/Chests
+Enchantment Descriptions
+elytra slot
+elevator mod
+Eccentric Tome
+Easy Villagers
+Ding
+    Delightful
+farmer's delight
+DefaultSettings
+Deeper and Darker
+Dark Utilities
+Croptopia
+Crafting Tweaks
+Crash Utilities
+Crafting On A Stick
+CosmeticArmorReworked
+corail woodcutter
+https://modrinth.com/mod/gravestone-mod
+CookingForBlockheads
+construction wand
+ConnectedTexturesMod
+Connected Glass
+    Configured
+comforts
+Clickable advancements
+Chipped
+Charm of Undying
+Charging Gadgets
+building gadgets
+botany pots
+    botany trees(but as datapack instead)
+Blue Flame Burning
+Bigger reactors
+Baubley Heart Canisters
+Bad Wither No Cookie
+artifacts
+Applied Cooking
+Apotheosis
+    antighost
+Almost unified
+advancement plaques(optionalize)
+Advanced Generators
+Additional Lights
+Additional Lanterns
+ad astra(+Giselle Addon)
+runelic
+pig pen
+bumblezone
