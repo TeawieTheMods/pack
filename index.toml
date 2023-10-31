@@ -6,6 +6,11 @@ hash = "96f9983d86fa756ca973306fca579288302f26482e2de6b69d4845e24f03ffb6"
 metafile = true
 
 [[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "5b8d844f175b30b4f691a6695a633dd46d975d3bf51262847a2b5b0a177f3869"
+metafile = true
+
+[[files]]
 file = "mods/ae2-things-forge.pw.toml"
 hash = "8f7696617249a4be35a9d1a2caecce4e17bbffe823f904d10c6fc8b72c4352ca"
 metafile = true
@@ -68,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/carryon-2.1.2.5-FIXED.jar"
 hash = "7697f1da4dda19c1b8219f170978957df489eaaae56ea101c3e9ee52cf203128"
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "ea14e6e2403900d059a427f5248360ea2fa41f2dc491bfcc2006b80a0da9bd03"
+metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
