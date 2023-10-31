@@ -1,0 +1,13 @@
+name = "EMI Trades"
+filename = "emitrades-forge-1.2.0+mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/j2HhbEE7/versions/TDLTXwrz/emitrades-forge-1.2.0%2Bmc1.20.1.jar"
+hash-format = "sha1"
+hash = "a2b7ee1112db27daabd66f685f9eccae702c5ab6"
+
+[update]
+[update.modrinth]
+mod-id = "j2HhbEE7"
+version = "TDLTXwrz"

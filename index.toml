@@ -1,0 +1,126 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "96f9983d86fa756ca973306fca579288302f26482e2de6b69d4845e24f03ffb6"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "b7321e670cc58aa8062f7cae470c9806c2ed83680ca598df5fe6e75ab40df452"
+metafile = true
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "1a060877e79455b31a20e165adb356a517c161eacf3ae503de2fa515e79dea0a"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "0e82cf003a7ae18edfad6964fb76d7a7230e546f45e56fccae7eca7bd84eee90"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "33b44f9dd0b1fef2c70b7dfa2579762051df57b13c78535be927a40dd4cf98a6"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "022a9a1017ffcf3ddd00867b05529d90d1e89ba0928f65f71f4788f889831231"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "c0e22e29bd5ad71f2f9a1a218e291d19388f31f968e71db04593000aefca4e80"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "297061023f6ee2ffe3f3c273877e58ac76b3b663118ad081e42cf580706c4d01"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "46fcce1ca7dcc368536d06cfec44758dcb88453c4046583c14989a38fcd74981"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "46b8bda0024e589da953c4f02af128dc962ab5c6b9738d80d78ba30c124df373"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "bf369081e8531fabe26c1444e684b89629dfb097827158489b6de489577ca64d"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "7e9f6a5b564e4fbe92bff784eb13a2565eb5a631ed452cf9b8748e73935ae8b2"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "0460917d82c6a57e7675df7a1f6b31f4209f0e34b7b3e47edd7f7d75467dc823"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "aa68fe924a2d5ee955018c961bbd91a23485a15643d6de10d8d31562ee3702fd"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "793af1833cf85a38cde1f4beef628aead925017b9a7af1ec28701d2c50ffd347"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "cee43ab4748d906c4494abe01ff8b5756c517cc04b3f1ab5a0843b5d8d7eb44a"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+hash = "9717b0b5594e3e715a146d193801d58d984099b8f1f96bcdc081b9d2fca32b73"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "4a68abb339f8993d6e5809fe0255752837176dff9a28c27b70dfd9da939bf410"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "4784b541326dacd7cd2875896cf0b3d6cf79fb0194dbca21d691b0f5083a8030"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "dbe2c430bf58c773082d7fd9d1bee2d510a2e0c08f390f7465e819b6e321ae09"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "f343ca4469e393d4055137a1dc228441a80be2a755d634001e037837dd7a56b6"
+metafile = true
+
+[[files]]
+file = "mods/textrues-embeddium-options.pw.toml"
+hash = "f76a3b5b2df7cc7707b1b0de586af8175072ecb757a96c5b5aac2b4046b7335a"
+metafile = true

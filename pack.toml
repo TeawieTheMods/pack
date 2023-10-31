@@ -1,0 +1,13 @@
+name = "Teawie the Mods"
+author = "skyevg"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e9f7e4e735f10096d90d2e4170a6677981ea7e4c82b34acb71a7322bd1350d32"
+
+[versions]
+forge = "47.2.1"
+minecraft = "1.20.1"
