@@ -6,6 +6,11 @@ hash = "96f9983d86fa756ca973306fca579288302f26482e2de6b69d4845e24f03ffb6"
 metafile = true
 
 [[files]]
+file = "mods/ae2-things-forge.pw.toml"
+hash = "8f7696617249a4be35a9d1a2caecce4e17bbffe823f904d10c6fc8b72c4352ca"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "ec9bb2c5074be03ad24bd4a73efe31fa2ca78ab9d34349257b4a58a6ee91a848"
 metafile = true
