@@ -230,6 +230,11 @@ hash = "4a68abb339f8993d6e5809fe0255752837176dff9a28c27b70dfd9da939bf410"
 metafile = true
 
 [[files]]
+file = "mods/productivebees.pw.toml"
+hash = "b8f64c211fbdea372487edf29ad65ab9bb28834992aee77ac2cc0e17475bf8f5"
+metafile = true
+
+[[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
 hash = "352bbd75887df2d8c2c181255a27d6aebc78dd52ee867c85a317a4e2b83a49fd"
 metafile = true
