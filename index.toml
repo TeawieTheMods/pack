@@ -140,6 +140,26 @@ hash = "98e67f2f1ca8a9450169edb30d288eb2d481515a7b4a329aac77f5d23200eef2"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-additions.pw.toml"
+hash = "fb169cc32d3474bd1d677b7e559d4e5e13bc1b3f7a0646af901247b716ef828d"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "80641cc59b2aa3109544fe68e82fe8428cb5ab304f6fd69a79c5cc84aa3019cc"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "857f05d73c87db30ea0d449663e105bfbb9b51d7b21c11a45575d0608c976277"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "fcede0d15939bcf5cc5b8c97a21918c13f40e13042c94b34c9cf03c1235a8dc1"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "d6b707c0673cde38765d81a99deb45f213e0f8ea1842784310bb5ab311fefe5e"
 metafile = true
