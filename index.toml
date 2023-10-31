@@ -6,6 +6,11 @@ hash = "96f9983d86fa756ca973306fca579288302f26482e2de6b69d4845e24f03ffb6"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "ec9bb2c5074be03ad24bd4a73efe31fa2ca78ab9d34349257b4a58a6ee91a848"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "64a9d35d95525940611e536b2d16ee73dec0c213832195b2f7f8f925e077d774"
 metafile = true
@@ -13,6 +18,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "b637183ffd35789866ed01d0ab38366caa865ac8326a552d6b5df25666a31c4c"
 metafile = true
 
 [[files]]
@@ -55,6 +65,11 @@ hash = "e690e6f1d8e2706e4289bd4123afad0caf6406455f5afd5c9c0fa272e3c8a06c"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "196d40b07e59ffbdbe9e8ba4a6d461c1cc5a1e2883a49fb4d9055607938a3644"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "3bfb89c4d79052b3052da2713e3250225851e362b8979f8534538c1fdec257f7"
 metafile = true
@@ -67,6 +82,11 @@ metafile = true
 [[files]]
 file = "mods/cupboard.pw.toml"
 hash = "ee7e8aedd0febb425a837c78acf2a4b5b8729c0a854c3b6a2d57ed27f5cf5afe"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "2909acfc64dc4a520c920765b7b8e028280f39e8f48cc9eec26057c1436d9f11"
 metafile = true
 
 [[files]]
