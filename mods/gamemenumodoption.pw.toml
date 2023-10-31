@@ -1,0 +1,13 @@
+name = "Game Menu Mod Option"
+filename = "gamemenumodoption-mc1.20.1-2.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7V0nY9Tu/versions/mLJySGYJ/gamemenumodoption-mc1.20.1-2.2.1.jar"
+hash-format = "sha1"
+hash = "3de6257b1bac0cb2f4d19baee7234ec497876fec"
+
+[update]
+[update.modrinth]
+mod-id = "7V0nY9Tu"
+version = "mLJySGYJ"

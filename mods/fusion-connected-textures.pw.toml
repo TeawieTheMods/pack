@@ -1,0 +1,13 @@
+name = "Fusion (Connected Textures)"
+filename = "fusion-1.0.6-forge-mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/p19vrgc2/versions/rySJTbFw/fusion-1.0.6-forge-mc1.20.1.jar"
+hash-format = "sha1"
+hash = "818043dba52cbeb7179f39623063271a5b6f503e"
+
+[update]
+[update.modrinth]
+mod-id = "p19vrgc2"
+version = "rySJTbFw"

@@ -1,0 +1,18 @@
+name = "JourneyMap"
+filename = "journeymap-1.20.1-5.9.15-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/dxUbE87b/journeymap-1.20.1-5.9.15-forge.jar"
+hash-format = "sha1"
+hash = "72648255ed84f990f318ac64158ac47535e95a01"
+
+[option]
+optional = true
+default = true
+description = "Journeymap. Disable if you want other map mod."
+
+[update]
+[update.modrinth]
+mod-id = "lfHFW1mp"
+version = "dxUbE87b"

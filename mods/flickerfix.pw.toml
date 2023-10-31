@@ -1,0 +1,13 @@
+name = "FlickerFix"
+filename = "flickerfix-1.20.1-4.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KSyWOxT5/versions/tgbHZ6aV/flickerfix-1.20.1-4.0.1.jar"
+hash-format = "sha1"
+hash = "ffcf6207d71ba069a8baf18f6ac4ee8668376490"
+
+[update]
+[update.modrinth]
+mod-id = "KSyWOxT5"
+version = "tgbHZ6aV"

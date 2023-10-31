@@ -1,0 +1,13 @@
+name = "Naturalist"
+filename = "naturalist-forge-4.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F8BQNPWX/versions/yX8BStTF/naturalist-forge-4.0.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "1286955aa9566d6fdffd2375671e177de04233f5"
+
+[update]
+[update.modrinth]
+mod-id = "F8BQNPWX"
+version = "yX8BStTF"

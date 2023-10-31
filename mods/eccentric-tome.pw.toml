@@ -1,0 +1,13 @@
+name = "Eccentric Tome"
+filename = "eccentrictome-1.20.1-1.10.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZtdULK5c/versions/Jwz9ubLj/eccentrictome-1.20.1-1.10.1.jar"
+hash-format = "sha1"
+hash = "da926733da5abcaf23800631b81dd227b1ecf934"
+
+[update]
+[update.modrinth]
+mod-id = "ZtdULK5c"
+version = "Jwz9ubLj"
