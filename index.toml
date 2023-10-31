@@ -210,6 +210,11 @@ hash = "cee43ab4748d906c4494abe01ff8b5756c517cc04b3f1ab5a0843b5d8d7eb44a"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "a9965136abefd7565f560755be86d1e606b985823bd08acd6fcdd823707eeaec"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "d71fd32a56325b8fe378cfafe78f81d985436b2fd44638f5bab1f1386680b096"
 metafile = true
@@ -262,6 +267,11 @@ metafile = true
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "d8c0f34c7d18243a19e7aa8c87f511106df3f86e91fe6da17db0b5a0bab4c415"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "307d9542bf070a4f68f18da160e83e1eae325aea95cae8fe545df5d180aa555b"
 metafile = true
 
 [[files]]
