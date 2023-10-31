@@ -16,6 +16,11 @@ hash = "ec9bb2c5074be03ad24bd4a73efe31fa2ca78ab9d34349257b4a58a6ee91a848"
 metafile = true
 
 [[files]]
+file = "mods/aeinfinitybooster.pw.toml"
+hash = "7ec07fbf8bd444722601e8acedc7ea199a40edc9a37c4c5df1e449712d0e3dc4"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "64a9d35d95525940611e536b2d16ee73dec0c213832195b2f7f8f925e077d774"
 metafile = true
