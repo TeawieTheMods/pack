@@ -190,6 +190,11 @@ hash = "98e67f2f1ca8a9450169edb30d288eb2d481515a7b4a329aac77f5d23200eef2"
 metafile = true
 
 [[files]]
+file = "mods/mega.pw.toml"
+hash = "760962549ecf3fc076ecf76ebc4b7bacebed8d06b13f9b09c10018c2d091487b"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-additions.pw.toml"
 hash = "fb169cc32d3474bd1d677b7e559d4e5e13bc1b3f7a0646af901247b716ef828d"
 metafile = true
