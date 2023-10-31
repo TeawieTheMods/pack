@@ -1,0 +1,13 @@
+name = "Better Ping Display"
+filename = "BetterPingDisplay-1.20.1-1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZvaHbwoZ/versions/jXuIS25Y/BetterPingDisplay-1.20.1-1.1.jar"
+hash-format = "sha1"
+hash = "6347a5bff9405c59ec7d428e5e24115f5b17a90b"
+
+[update]
+[update.modrinth]
+mod-id = "ZvaHbwoZ"
+version = "jXuIS25Y"
