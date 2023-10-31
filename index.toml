@@ -31,6 +31,11 @@ hash = "b637183ffd35789866ed01d0ab38366caa865ac8326a552d6b5df25666a31c4c"
 metafile = true
 
 [[files]]
+file = "mods/applied-mekanistics.pw.toml"
+hash = "f573cd0cec898aae70fafbd43c2305d566d826c6864b072165bd2aade263a199"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "b7321e670cc58aa8062f7cae470c9806c2ed83680ca598df5fe6e75ab40df452"
 metafile = true
