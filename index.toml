@@ -61,6 +61,11 @@ hash = "7a5c0c62f41a091e99fb6f503c1b096ce5e4070648dde9dab8eddacddbf01a5a"
 metafile = true
 
 [[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "2ed09e26b7ea0c6aa02d834ba7a2261c50f67a94c96389a33d3e58efedf1b197"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "e77317bc617d352157466fef3cf8a6a952dfd35cd7bd014b2a489c5ece59eca4"
 metafile = true
@@ -110,6 +115,36 @@ hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "b616650a87b0d14097866b2d1671e5e3e5a0d30ad35a0c9e0513307dd6dae70a"
+metafile = true
+
+[[files]]
+file = "mods/create-misc-and-things.pw.toml"
+hash = "2e5277e3399781103d429cde92562a6b70ad573b7cb0fa360239c6351c8a81d9"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "ded26ce2ba15eeee2bc5a7506f5904bd918afdf5b01884b0b4ad59e76cbd7666"
+metafile = true
+
+[[files]]
+file = "mods/create-track-map.pw.toml"
+hash = "9c29a2143f86c5ff6224071809c3ae1495cf76584ec0b1486f95b6ac0716654c"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "c84ceb8f2316b29510e79a5e89983bb224d9aead21f8dc5fcaae6e3bdc810b2e"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "0228a91f523d16f54e263e336814eba86e0d2b0d5326e14ca5d8ce4a4f374e30"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "ee7e8aedd0febb425a837c78acf2a4b5b8729c0a854c3b6a2d57ed27f5cf5afe"
 metafile = true
@@ -147,6 +182,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "bf369081e8531fabe26c1444e684b89629dfb097827158489b6de489577ca64d"
+metafile = true
+
+[[files]]
+file = "mods/extractinator.pw.toml"
+hash = "f39da2caaa7ed01698228142982a739b09d24f211079e78601a61324771eb278"
 metafile = true
 
 [[files]]
@@ -267,6 +307,16 @@ metafile = true
 [[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
 hash = "352bbd75887df2d8c2c181255a27d6aebc78dd52ee867c85a317a4e2b83a49fd"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "78362b7e7661e4511545b6f782e3dbcff2500a64e61dea86125f2a60484eb6a8"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "4bb2e7da5c312396ede28805f7092afac73370c63a4fe8e28e7bfbdc3812185a"
 metafile = true
 
 [[files]]
