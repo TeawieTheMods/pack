@@ -390,6 +390,11 @@ hash = "9a47ae3e125db2d8222de6b8e145678687201e500f9b788b9fd014619db091c3"
 metafile = true
 
 [[files]]
+file = "mods/ducky-periphs.pw.toml"
+hash = "3223636654b690a235a48dc94af6ab52fb09522d3c75ef192905c2baf1dc5b47"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "33b44f9dd0b1fef2c70b7dfa2579762051df57b13c78535be927a40dd4cf98a6"
 metafile = true
@@ -563,6 +568,14 @@ metafile = true
 file = "mods/harvest-with-ease.pw.toml"
 hash = "bba2ff33b3a66d3c03555b2ef1547ecf9280b6b2314d3d6cae6d965148c3de4c"
 metafile = true
+
+[[files]]
+file = "mods/hexal-forge-1.20.1-0.3.0-2.jar"
+hash = "5d3263181dd1f7efa5c336efdc2ba871843db1bf6e3337a51a829d005ea43662"
+
+[[files]]
+file = "mods/hexcasting-forge-1.20.1-0.11.1-7.jar"
+hash = "e58272954237442ca359e99900851ef07c37fe98185e47c00ebbf746c8fb41a8"
 
 [[files]]
 file = "mods/hostile-neural-networks.pw.toml"
@@ -820,6 +833,10 @@ hash = "621f1001c3ea9b962367497181fab21eb0cc64bb8ea0b79e504d85775439f659"
 metafile = true
 
 [[files]]
+file = "mods/moreiotas-forge-1.20.1-0.1.0-3.jar"
+hash = "a9bb484e1fa65676fce598e59e7a3b2516cccffda14eae07aae239f839a989a3"
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "d71fd32a56325b8fe378cfafe78f81d985436b2fd44638f5bab1f1386680b096"
 metafile = true
@@ -863,6 +880,10 @@ metafile = true
 file = "mods/patchouli.pw.toml"
 hash = "52c410eec403ed2cc909721bc7f6b58a2298cb964cb7735d2fed42113bfad032"
 metafile = true
+
+[[files]]
+file = "mods/paucal-forge-1.20.1-0.6.0.jar"
+hash = "8a452cdc34bd86acdb2b5821e9676d764ec1c1402fcbf1fcb53ad6c7acd91860"
 
 [[files]]
 file = "mods/phosphophyllite.pw.toml"
