@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/cucumber.pw.toml"
-hash = "2eee9cf538c9d07904ad985ec7e2b078c3195f6d040d9fed4bf32909d530881d"
+hash = "ad2b7e6f260f4936ffcec892aab71d8217b92dacc8b06d64665c661b88082360"
 metafile = true
 
 [[files]]
@@ -607,11 +607,6 @@ metafile = true
 [[files]]
 file = "mods/iron-jetpacks.pw.toml"
 hash = "b328a46eaba71b9fb75fe6cf54c714fe0561723291b20f9bcf27f22771b2b3b0"
-metafile = true
-
-[[files]]
-file = "mods/item-nbt-viewer.pw.toml"
-hash = "f8d5ae7eb0ca72de3153242f69e0e96f9e4634cd4cf4363972add08b7037a5ab"
 metafile = true
 
 [[files]]
