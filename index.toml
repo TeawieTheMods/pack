@@ -6,6 +6,10 @@ hash = "96f9983d86fa756ca973306fca579288302f26482e2de6b69d4845e24f03ffb6"
 metafile = true
 
 [[files]]
+file = "mods/AdvancedPeripherals-1.20.1-0.7.33b_PATCHED.jar"
+hash = "d0afcc853989204d3b455e9e99b232fce65e8b646bea90a9d2c7f4b29b3d61b0"
+
+[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 hash = "6140ac00c6e2080534975b121f3f2188001ffe6ed7a4c836f8c1dac20cda63f8"
 metafile = true
@@ -28,11 +32,6 @@ metafile = true
 [[files]]
 file = "mods/advanced-generators.pw.toml"
 hash = "3cc51a51acae9cdd9f0035431db7a203af8e6cc70b21136867796fefc13b74e4"
-metafile = true
-
-[[files]]
-file = "mods/advancedperipherals.pw.toml"
-hash = "5b8d844f175b30b4f691a6695a633dd46d975d3bf51262847a2b5b0a177f3869"
 metafile = true
 
 [[files]]
@@ -275,6 +274,16 @@ hash = "7ed9ece61fde7a2f66450313fd5b479cfc273d3fd9f09904dcc118046525ca95"
 metafile = true
 
 [[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "096914067288b27f9b24168ca9e4b601d677f1a1d3e69e7641724d54c25f9ebc"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "5d0112c0f11aad378d3ea34fc6253987632673a0c15af2204115153f421ffac4"
+metafile = true
+
+[[files]]
 file = "mods/construction-wand.pw.toml"
 hash = "119a7506c39a296fc3cd7d6f874c08b2664082811ba95daf2b98f27f398fb980"
 metafile = true
@@ -502,6 +511,11 @@ metafile = true
 [[files]]
 file = "mods/flux-networks.pw.toml"
 hash = "c03ad50ab5df88a251e335fa8c6a3cfb0621279c76ce9661969450f501d6acf4"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "2cc92962d3e93470b886d5cc6b4e359ae2c7294af7e1faf14461d576ede9a005"
 metafile = true
 
 [[files]]
@@ -750,6 +764,11 @@ metafile = true
 [[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "1eb10738bc8c473a5212a86918941548424a4b10ee563d6b2cbe95bad6107aa3"
+metafile = true
+
+[[files]]
+file = "mods/mcr_blahaj.pw.toml"
+hash = "1e0f6b3c2935c108f4cbb20b2c94d2703adb7ac3b8c0baaba15661d5559f57aa"
 metafile = true
 
 [[files]]
@@ -1093,6 +1112,11 @@ metafile = true
 [[files]]
 file = "mods/time-in-a-bottle-forge.pw.toml"
 hash = "72ced7ade7b22637f28e2786e93e0e8afad3b7c3fd402998e08d8c688a93af6e"
+metafile = true
+
+[[files]]
+file = "mods/tinkerers-smithing.pw.toml"
+hash = "c6b1b6f27f844211b7ceee4cf946b7fbcead884846be428d8da0418c66653aae"
 metafile = true
 
 [[files]]
