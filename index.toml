@@ -584,10 +584,6 @@ hash = "bba2ff33b3a66d3c03555b2ef1547ecf9280b6b2314d3d6cae6d965148c3de4c"
 metafile = true
 
 [[files]]
-file = "mods/hexal-forge-1.20.1-0.3.0-2.jar"
-hash = "5d3263181dd1f7efa5c336efdc2ba871843db1bf6e3337a51a829d005ea43662"
-
-[[files]]
 file = "mods/hexcasting-forge-1.20.1-0.11.1-7.jar"
 hash = "e58272954237442ca359e99900851ef07c37fe98185e47c00ebbf746c8fb41a8"
 
