@@ -170,6 +170,11 @@ hash = "62fdecc406eb2c9d04b0ec0313b06d61dbc0870a8e22ab7e53462611fc3ac29d"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "a8beef77c7ca4f31b9b85f4f123f2f461814b249551720b4f75c197e2aca68fc"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "bbbdca7e454cd1160a3a94b11352b9c42e79f39f36d44a676ac354ffb11d32c4"
 metafile = true
@@ -380,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/dark-utilities.pw.toml"
-hash = "a747637cdf4eaaceaa0f812371abb72bf2fd00fcb04993889dd262ba39c96be0"
+hash = "b5d41169264749f40de19eaf55a1af60e22e4bd5625a90855e11c88e48ebac6c"
 metafile = true
 
 [[files]]
@@ -582,10 +587,6 @@ metafile = true
 file = "mods/harvest-with-ease.pw.toml"
 hash = "bba2ff33b3a66d3c03555b2ef1547ecf9280b6b2314d3d6cae6d965148c3de4c"
 metafile = true
-
-[[files]]
-file = "mods/hexcasting-forge-1.20.1-0.11.1-7.jar"
-hash = "e58272954237442ca359e99900851ef07c37fe98185e47c00ebbf746c8fb41a8"
 
 [[files]]
 file = "mods/hostile-neural-networks.pw.toml"
@@ -903,7 +904,7 @@ metafile = true
 
 [[files]]
 file = "mods/pig-pen-cipher.pw.toml"
-hash = "86d1f26a7ae6210d216a1af25759b07986f71bf6deeed02b4ce651204502773c"
+hash = "f896fefa7466845181da9db06ba4a89865f54b406ff3b1fb65773c66614b6f1b"
 metafile = true
 
 [[files]]
@@ -988,7 +989,7 @@ metafile = true
 
 [[files]]
 file = "mods/runelic.pw.toml"
-hash = "61ce4ba81f3903ab9d2c27f7fa073f800f9480d910d3022e1701bfcdbb0ad6dd"
+hash = "53254c5c7af6238845518f9e289b8b91337e88b6dad4566c2e1b223f6901f456"
 metafile = true
 
 [[files]]
