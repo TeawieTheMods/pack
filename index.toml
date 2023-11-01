@@ -101,6 +101,11 @@ hash = "b7321e670cc58aa8062f7cae470c9806c2ed83680ca598df5fe6e75ab40df452"
 metafile = true
 
 [[files]]
+file = "mods/argonauts.pw.toml"
+hash = "a70ae9acdded3bf86d64b396701900d91a22b8ee304532399b3ad692cfa45f9e"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "f67955fefc915ea490f9f58ad1b6a899f76fe278c6b99d81b3966f0fcde03257"
 metafile = true
@@ -178,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "82f28744002af1a87779f66a917565e795778fd04a05732367e6e1497d86e0d4"
+metafile = true
+
+[[files]]
+file = "mods/cadmus.pw.toml"
+hash = "d3c6afecbbba0ae3ffc8448d605ffd42bea775a9ae29734fec24ded32de4a035"
 metafile = true
 
 [[files]]
@@ -887,6 +897,11 @@ metafile = true
 [[files]]
 file = "mods/productivebees.pw.toml"
 hash = "b8f64c211fbdea372487edf29ad65ab9bb28834992aee77ac2cc0e17475bf8f5"
+metafile = true
+
+[[files]]
+file = "mods/prometheus.pw.toml"
+hash = "53910dba5e7073465d964cb51df4ad89a59431bfb340a497f4d4d019d996da37"
 metafile = true
 
 [[files]]
