@@ -490,11 +490,6 @@ hash = "22f2e9a6df23fabdab4eb8e663feadb3d0659098d08d7ae762723b0420d0ff0e"
 metafile = true
 
 [[files]]
-file = "mods/fix-experience-bug.pw.toml"
-hash = "ff7228e40800d8cf94fee48f042bcf3ac2c8945cefa59007dc9a82394eda6872"
-metafile = true
-
-[[files]]
 file = "mods/flickerfix.pw.toml"
 hash = "95e3214ac6055f901cf4dd14ae4ca125a9055856872d5d4b401c3914dcaa6916"
 metafile = true
@@ -676,7 +671,7 @@ metafile = true
 
 [[files]]
 file = "mods/little-logistics.pw.toml"
-hash = "9dcdb1f7ccdff95be4cf8eb235f42af8eb4abf6ad555e44fdbad923823f2c676"
+hash = "d96ffbfb771b81f3c66e67f10479e27b43896b070ef3e78d5e3f8a6c6f3085cf"
 metafile = true
 
 [[files]]
@@ -881,7 +876,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "31b7f5371653df7c4f38580e0acefd1fd79a0bde7511d2e1d6997529b8b76a91"
+hash = "5c795a323232e03487af4d771547aed1ec05becb5834cbdd84d7fdbc87224f96"
 metafile = true
 
 [[files]]
