@@ -848,10 +848,6 @@ hash = "621f1001c3ea9b962367497181fab21eb0cc64bb8ea0b79e504d85775439f659"
 metafile = true
 
 [[files]]
-file = "mods/moreiotas-forge-1.20.1-0.1.0-3.jar"
-hash = "a9bb484e1fa65676fce598e59e7a3b2516cccffda14eae07aae239f839a989a3"
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "d71fd32a56325b8fe378cfafe78f81d985436b2fd44638f5bab1f1386680b096"
 metafile = true
