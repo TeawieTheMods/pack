@@ -200,6 +200,11 @@ file = "mods/carryon-2.1.2.5-FIXED.jar"
 hash = "7697f1da4dda19c1b8219f170978957df489eaaae56ea101c3e9ee52cf203128"
 
 [[files]]
+file = "mods/catalogue.pw.toml"
+hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "ea14e6e2403900d059a427f5248360ea2fa41f2dc491bfcc2006b80a0da9bd03"
 metafile = true
@@ -602,6 +607,11 @@ metafile = true
 [[files]]
 file = "mods/iron-jetpacks.pw.toml"
 hash = "b328a46eaba71b9fb75fe6cf54c714fe0561723291b20f9bcf27f22771b2b3b0"
+metafile = true
+
+[[files]]
+file = "mods/item-nbt-viewer.pw.toml"
+hash = "f8d5ae7eb0ca72de3153242f69e0e96f9e4634cd4cf4363972add08b7037a5ab"
 metafile = true
 
 [[files]]
@@ -1022,6 +1032,11 @@ metafile = true
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "d8c0f34c7d18243a19e7aa8c87f511106df3f86e91fe6da17db0b5a0bab4c415"
+metafile = true
+
+[[files]]
+file = "mods/suggestion-tweaker.pw.toml"
+hash = "e663fcecc782efb45f3d9a08af32fcf4a863ac33c0668b17e0db3d15291d79b0"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Suggestion Tweaker"
+filename = "suggestion-tweaker-1.20-1.5.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MBLj38R0/versions/lWhRwRPO/suggestion-tweaker-1.20-1.5.1-forge.jar"
+hash-format = "sha1"
+hash = "80865c23b09e215a8f88164c181376f43360195e"
+
+[update]
+[update.modrinth]
+mod-id = "MBLj38R0"
+version = "lWhRwRPO"
