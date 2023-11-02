@@ -594,6 +594,14 @@ hash = "bba2ff33b3a66d3c03555b2ef1547ecf9280b6b2314d3d6cae6d965148c3de4c"
 metafile = true
 
 [[files]]
+file = "mods/hexal-forge-1.20.1-0.3.0-2.jar"
+hash = "2ddce02b33acd981ae357d3913a46d083c67baed91488126fa1d8b8434950e3a"
+
+[[files]]
+file = "mods/hexcasting-forge-1.20.1-0.11.1-7.jar"
+hash = "40c8314e2d6946c9d9d33326a670de1722fee3744db02b779d3285bd4470b8ec"
+
+[[files]]
 file = "mods/hostile-neural-networks.pw.toml"
 hash = "03ed34aa1372a4b6767f2d40fe8e5f7b2c5471562d1464b4351cd76e56b8fa0b"
 metafile = true
@@ -869,6 +877,10 @@ hash = "621f1001c3ea9b962367497181fab21eb0cc64bb8ea0b79e504d85775439f659"
 metafile = true
 
 [[files]]
+file = "mods/moreiotas-forge-1.20.1-0.1.0-3.jar"
+hash = "77eb81c7990c40c110ba9e2b5a010025bc59f271202eb4f0ba7564510c6f49e9"
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "d71fd32a56325b8fe378cfafe78f81d985436b2fd44638f5bab1f1386680b096"
 metafile = true
@@ -916,6 +928,11 @@ metafile = true
 [[files]]
 file = "mods/paucal-forge-1.20.1-0.6.0.jar"
 hash = "8a452cdc34bd86acdb2b5821e9676d764ec1c1402fcbf1fcb53ad6c7acd91860"
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "dd654c96ba07a758edd92ee404092220e2411c57fdfef54b3b5ced42d9b4855f"
+metafile = true
 
 [[files]]
 file = "mods/phosphophyllite.pw.toml"
