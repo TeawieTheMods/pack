@@ -1,13 +1,13 @@
 name = "Simply Light"
-filename = "simplylight-1.20.1-1.4.5-build.49.jar"
+filename = "simplylight-1.20.1-1.4.6-build.50.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ac90a22bb30d0efba80a203f7c880a317687cc30"
+hash = "cfd851ffd2c3b451a96a19207dc6e084c1dfec73"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4622113
+file-id = 4832944
 project-id = 300331
