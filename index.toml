@@ -404,6 +404,11 @@ hash = "9a47ae3e125db2d8222de6b8e145678687201e500f9b788b9fd014619db091c3"
 metafile = true
 
 [[files]]
+file = "mods/do-api.pw.toml"
+hash = "38fc0d1293e36c0e9a7a750ba8c51cc5587b6dfc8d0ac39a9e2110b17fce6ed3"
+metafile = true
+
+[[files]]
 file = "mods/ducky-periphs.pw.toml"
 hash = "3223636654b690a235a48dc94af6ab52fb09522d3c75ef192905c2baf1dc5b47"
 metafile = true
@@ -681,6 +686,26 @@ metafile = true
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "872aa47e230bf2b5e378044e2dbbec43498dc5ab55151f11c4d5b8b57ef85104"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-bakery.pw.toml"
+hash = "fd53cf7da88155dbb9bce82f4934fe7de45d31450a7a97bae85f328df24fbac1"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-beachparty.pw.toml"
+hash = "1f4fdb1464630ec859cc9be24f9c26fe1a04b6fed1e8dbc1f19b3861f32cc70a"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-candlelight.pw.toml"
+hash = "97623a84d7c70ab63e921e02b1b600247833b36ee8329cb3b20c02c7364f6753"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-cheese.pw.toml"
+hash = "651f9890b5b9d5d558855f56a9dbab51505769286f5e65ad02fabe717fded58f"
 metafile = true
 
 [[files]]
@@ -1088,6 +1113,11 @@ hash = "307d9542bf070a4f68f18da160e83e1eae325aea95cae8fe545df5d180aa555b"
 metafile = true
 
 [[files]]
+file = "mods/terrablender.pw.toml"
+hash = "d956cf0f76876125ccdb7ef0451006e6082fae0a078162a775d7617bdfe3090d"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "c7b5cc4b23192c970f0aa018e1e5e801a56c3ec2149e87eb30e4d57fa624e2ba"
 metafile = true
@@ -1140,6 +1170,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "9b3bb44a08158f10e8c2d88c4d80a987ba45e5667670dfbbfd55890fc247f239"
+metafile = true
+
+[[files]]
+file = "mods/vinery.pw.toml"
+hash = "99b6d388eda022d26c85b9af3960fa296bf88d084ceb2c9ff0ece36bbfa1fa7a"
 metafile = true
 
 [[files]]
