@@ -689,11 +689,6 @@ hash = "872aa47e230bf2b5e378044e2dbbec43498dc5ab55151f11c4d5b8b57ef85104"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-bakery.pw.toml"
-hash = "fd53cf7da88155dbb9bce82f4934fe7de45d31450a7a97bae85f328df24fbac1"
-metafile = true
-
-[[files]]
 file = "mods/lets-do-beachparty.pw.toml"
 hash = "1f4fdb1464630ec859cc9be24f9c26fe1a04b6fed1e8dbc1f19b3861f32cc70a"
 metafile = true
