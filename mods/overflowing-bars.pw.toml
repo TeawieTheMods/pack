@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/XD7XOrAF/versions/juXraD7j/OverflowingBars-
 hash-format = "sha1"
 hash = "e6445bdd4fafa9c41bd70ed271cf87b8ab692eda"
 
+[option]
+optional = true
+default = true
+description = "Has weirdness with poison/wither/absorbtion. Disable if that's significantly worse for you than having health bar take up more space."
+
 [update]
 [update.modrinth]
 mod-id = "XD7XOrAF"
