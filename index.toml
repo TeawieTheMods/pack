@@ -1145,11 +1145,6 @@ hash = "53254c5c7af6238845518f9e289b8b91337e88b6dad4566c2e1b223f6901f456"
 metafile = true
 
 [[files]]
-file = "mods/scaffolding-behavior.pw.toml"
-hash = "14672c7c56dce5472e51f9c39a59d4ffa60c1c49b74592b4eb1bed17400483de"
-metafile = true
-
-[[files]]
 file = "mods/scalable-cats-force.pw.toml"
 hash = "0efdfd042ff64bcbd20ea342d47214c362a124f63568ccf3f1516caf134dc596"
 metafile = true
