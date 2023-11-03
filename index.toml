@@ -319,6 +319,11 @@ hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
+file = "mods/crabbers-delight.pw.toml"
+hash = "0f950707a5b90c2431a502ad37bd20d166269534537f6c6b9dacd85f480ae4ab"
+metafile = true
+
+[[files]]
 file = "mods/crafting-on-a-stick.pw.toml"
 hash = "7184fe8b0b67fbac6c9c42a1a4f98e6e5479501eb403de0d7e59723a186f7c52"
 metafile = true
@@ -339,6 +344,11 @@ hash = "b616650a87b0d14097866b2d1671e5e3e5a0d30ad35a0c9e0513307dd6dae70a"
 metafile = true
 
 [[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "5293e031588356a8c9e64b4f6c87800c989a5c609adba1e7b9b17a8032e453ec"
+metafile = true
+
+[[files]]
 file = "mods/create-misc-and-things.pw.toml"
 hash = "2e5277e3399781103d429cde92562a6b70ad573b7cb0fa360239c6351c8a81d9"
 metafile = true
@@ -346,6 +356,11 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "28cd35abd7f84a4d2f04fb50128bf272cafeac126dbdd6c20cb9c27eb0cd3d76"
+metafile = true
+
+[[files]]
+file = "mods/create-sweets-and-treats.pw.toml"
+hash = "31c74e96c76aabdbe2d9f9a7e5e36dbaf8866ea91feab92a71ed60489643c506"
 metafile = true
 
 [[files]]
@@ -421,6 +436,11 @@ metafile = true
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "33b44f9dd0b1fef2c70b7dfa2579762051df57b13c78535be927a40dd4cf98a6"
+metafile = true
+
+[[files]]
+file = "mods/earth2java.pw.toml"
+hash = "04fee0eded8ac521d906a4d0e81ea4cab71dab4e973bfc52ca7f210dd68e755c"
 metafile = true
 
 [[files]]
@@ -524,6 +544,11 @@ hash = "22f2e9a6df23fabdab4eb8e663feadb3d0659098d08d7ae762723b0420d0ff0e"
 metafile = true
 
 [[files]]
+file = "mods/flib.pw.toml"
+hash = "84c859b92abc5d7db0251d7bcc046293ff0a26729b92feaa3977e082263a9c06"
+metafile = true
+
+[[files]]
 file = "mods/flickerfix.pw.toml"
 hash = "95e3214ac6055f901cf4dd14ae4ca125a9055856872d5d4b401c3914dcaa6916"
 metafile = true
@@ -571,11 +596,6 @@ metafile = true
 [[files]]
 file = "mods/gamemenumodoption.pw.toml"
 hash = "bb798676e1a411b30830b4ffc87b45e583ea1b6d6cd80e8f6ed5315da1eaca4d"
-metafile = true
-
-[[files]]
-file = "mods/gateways-to-eternity.pw.toml"
-hash = "9c1963fd3132db5c607e6eb2c5841264cb7072323e68f6f0bad42b67a2fdae18"
 metafile = true
 
 [[files]]
@@ -629,6 +649,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "7e9f6a5b564e4fbe92bff784eb13a2565eb5a631ed452cf9b8748e73935ae8b2"
+metafile = true
+
+[[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "cd5cf6c686da51865c093e590c16dd8766e60e6fc855aefdc7382ec751c314dd"
 metafile = true
 
 [[files]]
@@ -704,6 +729,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "ac7e428dcfa3ff3c861088ec50585fcd6d8ae7f2e9ce4321781c4fd864691a34"
+metafile = true
+
+[[files]]
+file = "mods/laserio.pw.toml"
+hash = "53510f21e5be65c0a18cdd4eb536fca3d9b2bbebf4664356ed2e18b7a4a0c711"
 metafile = true
 
 [[files]]
@@ -921,6 +951,11 @@ hash = "38eb04b5ae4e429509e8c90fed921719d600166d9be12fcd4f263cce3b117c8a"
 metafile = true
 
 [[files]]
+file = "mods/nethers-delight.pw.toml"
+hash = "81be2b2e43c7cf127cf5b67e1dae3a5d7788732442cae1480cd7cd423043197c"
+metafile = true
+
+[[files]]
 file = "mods/observable.pw.toml"
 hash = "9717b0b5594e3e715a146d193801d58d984099b8f1f96bcdc081b9d2fca32b73"
 metafile = true
@@ -1047,6 +1082,11 @@ metafile = true
 [[files]]
 file = "mods/runelic.pw.toml"
 hash = "53254c5c7af6238845518f9e289b8b91337e88b6dad4566c2e1b223f6901f456"
+metafile = true
+
+[[files]]
+file = "mods/scaffolding-behavior.pw.toml"
+hash = "14672c7c56dce5472e51f9c39a59d4ffa60c1c49b74592b4eb1bed17400483de"
 metafile = true
 
 [[files]]
@@ -1215,8 +1255,18 @@ hash = "9b3bb44a08158f10e8c2d88c4d80a987ba45e5667670dfbbfd55890fc247f239"
 metafile = true
 
 [[files]]
+file = "mods/twigs.pw.toml"
+hash = "dad1eaefe4050aa29a82958c4f956ec28a140791d458e75757fef8b939210972"
+metafile = true
+
+[[files]]
 file = "mods/vinery.pw.toml"
 hash = "c66aa3128ea520b28e02469b8749182e8def4fcdc4462134ad27ac1e9f7d6c11"
+metafile = true
+
+[[files]]
+file = "mods/xnet-gases.pw.toml"
+hash = "a837bcf6f3e2055e527a2219acae36aaf923f044202c6994874db9d48e319aa6"
 metafile = true
 
 [[files]]

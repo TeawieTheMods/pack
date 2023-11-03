@@ -1,0 +1,13 @@
+name = "Earth2Java"
+filename = "earth2java-forge-1.10.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/D2Q91keW/versions/5710465z/earth2java-forge-1.10.1%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "cb1ffd58b0fde79d84429ad28b0988426b1060dc"
+
+[update]
+[update.modrinth]
+mod-id = "D2Q91keW"
+version = "5710465z"
