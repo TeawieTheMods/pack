@@ -1325,6 +1325,11 @@ hash = "c66aa3128ea520b28e02469b8749182e8def4fcdc4462134ad27ac1e9f7d6c11"
 metafile = true
 
 [[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "762fc9b6eaf8e8698cea5d010e4b15e543d5d10b4a4b352b861674f52b32296f"
+metafile = true
+
+[[files]]
 file = "mods/xnet-gases.pw.toml"
 hash = "a837bcf6f3e2055e527a2219acae36aaf923f044202c6994874db9d48e319aa6"
 metafile = true
