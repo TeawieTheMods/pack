@@ -459,11 +459,6 @@ hash = "bb1e978f81c1dae94ae576003dcabd90a77fc1f8886cb838c90d9007ec102252"
 metafile = true
 
 [[files]]
-file = "mods/enderio.pw.toml"
-hash = "ee45fe60f4042b3ebe6f16cf6256b1e9c44974f5b7524fe8643601a5e21fd312"
-metafile = true
-
-[[files]]
 file = "mods/endertanks.pw.toml"
 hash = "169919dac0b41a9cf04045d354fe3cf6c370000da5116c12cdc7a73f071b86f6"
 metafile = true
@@ -576,6 +571,11 @@ metafile = true
 [[files]]
 file = "mods/gamemenumodoption.pw.toml"
 hash = "bb798676e1a411b30830b4ffc87b45e583ea1b6d6cd80e8f6ed5315da1eaca4d"
+metafile = true
+
+[[files]]
+file = "mods/gateways-to-eternity.pw.toml"
+hash = "9c1963fd3132db5c607e6eb2c5841264cb7072323e68f6f0bad42b67a2fdae18"
 metafile = true
 
 [[files]]
