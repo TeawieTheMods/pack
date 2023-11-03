@@ -1,0 +1,13 @@
+name = "Create: Interiors"
+filename = "interiors-0.5-30+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/r4Knci2k/versions/PiVs3PTq/interiors-0.5-30%2Bmc1.20.1.jar"
+hash-format = "sha1"
+hash = "bd64eb4cee636670730f3d278d365f3388f450b3"
+
+[update]
+[update.modrinth]
+mod-id = "r4Knci2k"
+version = "PiVs3PTq"

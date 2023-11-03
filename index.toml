@@ -125,6 +125,11 @@ hash = "7d1570e176fa389d03d433b721e58898e8c33684d88e2e7300e460f9693e7d4c"
 metafile = true
 
 [[files]]
+file = "mods/automobility.pw.toml"
+hash = "0b50aa5e55bf2bea86e660f15167e96e2045ba3e355cbfad6006a221b1ad0a3e"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "fe56fd26f8057a8be2e2687af34948b64c90c06eeb47d53e0a73be2e5793943d"
 metafile = true
@@ -214,6 +219,11 @@ file = "mods/carryon-2.1.2.5-FIXED.jar"
 hash = "7697f1da4dda19c1b8219f170978957df489eaaae56ea101c3e9ee52cf203128"
 
 [[files]]
+file = "mods/cat_jam.pw.toml"
+hash = "c7eba185798e595dd1144af73b57560b16affeae74316eb2f241e1fe9688e4f4"
+metafile = true
+
+[[files]]
 file = "mods/catalogue.pw.toml"
 hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
 metafile = true
@@ -241,6 +251,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "0e82cf003a7ae18edfad6964fb76d7a7230e546f45e56fccae7eca7bd84eee90"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "63b67767a704a2774767fe1db80202b75ea1bdfb65bf93cfd6c75c615a44b05f"
 metafile = true
 
 [[files]]
@@ -677,6 +692,11 @@ hash = "f4114f4aa85a2e2788b4f5b8880db24459ab68c2e6a2218fc799a907d199b073"
 metafile = true
 
 [[files]]
+file = "mods/interiors.pw.toml"
+hash = "5f5428d1489fbae0a7c950eb6d34134bf4b9600daa3fd2ae6c0f75c7212350a3"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "63c3fedddb81c16f5f2f465c64cf98301a65dcb097183988441b1a285ecb210e"
 metafile = true
@@ -1040,6 +1060,11 @@ hash = "7d9394525943d9c5bc49ea31f8368b10b59cbb6c72ae06f9569110a7d75f0544"
 metafile = true
 
 [[files]]
+file = "mods/rats.pw.toml"
+hash = "b866bd3d88a52bb8a83c6552f84a94b0f364b002a22859cf38f8cddf72d1b20e"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "4f26da00f4006cb8fdf1859e6ef3255f55850af88988f6d3e631440dbd344665"
 metafile = true
@@ -1067,6 +1092,31 @@ metafile = true
 [[files]]
 file = "mods/rftools-base.pw.toml"
 hash = "44e35060d764d847704deb2b1301c169b798c7c19eef49997516a48acc3d7fd2"
+metafile = true
+
+[[files]]
+file = "mods/rftools-builder.pw.toml"
+hash = "daee630704e45e4d5ca66bcdd4c407af23cc806b4c1d7057e94ec1c2e938923e"
+metafile = true
+
+[[files]]
+file = "mods/rftools-control.pw.toml"
+hash = "a26cd3bf50163354f75b5a5bf1e85459c3f50248401548ebb0bde53c368c573c"
+metafile = true
+
+[[files]]
+file = "mods/rftools-power.pw.toml"
+hash = "5716d02efc3727aebcc83814ffaf504e820c267339c4282481a3b7d4d8d84078"
+metafile = true
+
+[[files]]
+file = "mods/rftools-storage.pw.toml"
+hash = "5da606af4a54f432cf1bfbbad4e5e7cb037a55a17b1f95f82a746c377a6e7fa6"
+metafile = true
+
+[[files]]
+file = "mods/rftools-utility.pw.toml"
+hash = "3d5bf0e6a075c7cc6f55ad398220e335d69c303e59b8b6ba9e6b2110d3131a5c"
 metafile = true
 
 [[files]]
