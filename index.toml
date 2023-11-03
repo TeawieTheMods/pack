@@ -599,6 +599,11 @@ hash = "ad38d60ef123c7e36e2f688c4a98b94f038bfff7db8e2cd7f5a5c0f7c9d7838e"
 metafile = true
 
 [[files]]
+file = "mods/fullstack-watchdog.pw.toml"
+hash = "be9a0a94c489887273677978d0a8f998ec850a67377aae001a0887ef7184fcb9"
+metafile = true
+
+[[files]]
 file = "mods/functional-storage.pw.toml"
 hash = "25fb2ae31f331531f0aca989f2b33a5c279a339ff8bea2f9c0547159df99088b"
 metafile = true
