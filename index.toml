@@ -654,7 +654,7 @@ hash = "2ddce02b33acd981ae357d3913a46d083c67baed91488126fa1d8b8434950e3a"
 
 [[files]]
 file = "mods/hexcasting-forge-1.20.1-0.11.1-7.jar"
-hash = "40c8314e2d6946c9d9d33326a670de1722fee3744db02b779d3285bd4470b8ec"
+hash = "65552558dc8481bbb98dce9aec0c4992dce8dbf9eb6208a1398fad7df89e1b21"
 
 [[files]]
 file = "mods/hostile-neural-networks.pw.toml"
@@ -1250,6 +1250,10 @@ hash = "307d9542bf070a4f68f18da160e83e1eae325aea95cae8fe545df5d180aa555b"
 metafile = true
 
 [[files]]
+file = "mods/teawieks-1.0.0.jar"
+hash = "fe66c3ea414baa28aa54fe3356ba0b3ff93b7af8d98515765ebab5d2d155386c"
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "d956cf0f76876125ccdb7ef0451006e6082fae0a078162a775d7617bdfe3090d"
 metafile = true
@@ -1287,11 +1291,6 @@ metafile = true
 [[files]]
 file = "mods/toast-control.pw.toml"
 hash = "1195cdfa90ac4ef4d5ebed8dbca1df990cf58b0a0fe3b9b965ccefa0cfd5a2e3"
-metafile = true
-
-[[files]]
-file = "mods/too-fast.pw.toml"
-hash = "8fa597b487ad567a8d1f552bd70a6ed1e23e101630e0a993f354e8e4e7b8fc8e"
 metafile = true
 
 [[files]]
