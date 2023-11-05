@@ -444,11 +444,6 @@ hash = "19413a41449b0860f4a632daaaef570178b8fdd058adf927362dc6f0584d2061"
 metafile = true
 
 [[files]]
-file = "mods/diagonal-windows.pw.toml"
-hash = "7eb998efd82d36b8e3bea13fd50c81ab8449a56432c11c5dd4c0e38ca2421ea2"
-metafile = true
-
-[[files]]
 file = "mods/ding.pw.toml"
 hash = "9a47ae3e125db2d8222de6b8e145678687201e500f9b788b9fd014619db091c3"
 metafile = true
