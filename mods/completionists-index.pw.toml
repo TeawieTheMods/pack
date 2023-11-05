@@ -1,0 +1,13 @@
+name = "Completionist's Index"
+filename = "CompletionistsIndex-v8.0.0-1.20.1-Forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iSCGCCV1/versions/VSxl1I7f/CompletionistsIndex-v8.0.0-1.20.1-Forge.jar"
+hash-format = "sha1"
+hash = "5a304f957f09dac883ab43b752cf415876edc341"
+
+[update]
+[update.modrinth]
+mod-id = "iSCGCCV1"
+version = "VSxl1I7f"

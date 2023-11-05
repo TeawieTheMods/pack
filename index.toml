@@ -289,6 +289,11 @@ hash = "cad8643ee0b41bb9825b4a2a273628fa1a3a9c15b34fb4ec8e297fde8498f7f6"
 metafile = true
 
 [[files]]
+file = "mods/completionists-index.pw.toml"
+hash = "1b122eddd81afc3c2056d48efb9333292675a34785846959be98ca6d7fe6cc24"
+metafile = true
+
+[[files]]
 file = "mods/connected-glass.pw.toml"
 hash = "7271d841b71d777e72b18bf5be72e4058b906a526b1afef621031354629b39f5"
 metafile = true
@@ -431,6 +436,16 @@ metafile = true
 [[files]]
 file = "mods/defaultsettings.pw.toml"
 hash = "5a105e80bc36fc5b8560c9b27572202ec821eab8d27d5bd71d2e661abbd53542"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "19413a41449b0860f4a632daaaef570178b8fdd058adf927362dc6f0584d2061"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-windows.pw.toml"
+hash = "7eb998efd82d36b8e3bea13fd50c81ab8449a56432c11c5dd4c0e38ca2421ea2"
 metafile = true
 
 [[files]]
@@ -702,6 +717,11 @@ hash = "5f5428d1489fbae0a7c950eb6d34134bf4b9600daa3fd2ae6c0f75c7212350a3"
 metafile = true
 
 [[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "02ae7c6bac56915122621b677cdc334c2651b182009caf451c80b3e177e37d02"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "63c3fedddb81c16f5f2f465c64cf98301a65dcb097183988441b1a285ecb210e"
 metafile = true
@@ -799,6 +819,11 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "c11741948723fc820811c603996a40122b5808e87ca9f40d15288131b37d3af6"
+metafile = true
+
+[[files]]
+file = "mods/login-protection.pw.toml"
+hash = "d6669ccd9ed05cf4859dee3fd2a46ef5aef12179e1f505c8dd92dc653033897a"
 metafile = true
 
 [[files]]
@@ -976,8 +1001,18 @@ hash = "38eb04b5ae4e429509e8c90fed921719d600166d9be12fcd4f263cce3b117c8a"
 metafile = true
 
 [[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "3420803bd042eea84afdefc9801c4a6bc2fe132bc3f09c9a014e78dbfd1555ad"
+metafile = true
+
+[[files]]
 file = "mods/nethers-delight.pw.toml"
 hash = "81be2b2e43c7cf127cf5b67e1dae3a5d7788732442cae1480cd7cd423043197c"
+metafile = true
+
+[[files]]
+file = "mods/no-villager-death-messages.pw.toml"
+hash = "cec51853a2ef6f440649b2dd2f66de8ec544dce7bd624881f2d92c3f9a1bbdfd"
 metafile = true
 
 [[files]]
@@ -1017,6 +1052,11 @@ metafile = true
 [[files]]
 file = "mods/phosphophyllite.pw.toml"
 hash = "51fc20fa50c0504b89f1c34b720a7888be788d51aa645bfc7f40e6c723b605e0"
+metafile = true
+
+[[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "75adf9b1f879a4087d6e918bf15fe65d162a1b97164d3543d31f4e3413a1e2a5"
 metafile = true
 
 [[files]]
@@ -1072,6 +1112,11 @@ metafile = true
 [[files]]
 file = "mods/rats.pw.toml"
 hash = "b866bd3d88a52bb8a83c6552f84a94b0f364b002a22859cf38f8cddf72d1b20e"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled-create.pw.toml"
+hash = "3ddec8010d47734ab7120d74677379c2f43cf1c502bbb6d024fa9a83c80c155a"
 metafile = true
 
 [[files]]
@@ -1167,6 +1212,11 @@ metafile = true
 [[files]]
 file = "mods/shetiphiancore.pw.toml"
 hash = "d54efdd722138cc34b277149e40901eec7aa544cd57b896b393d54a93d047ce2"
+metafile = true
+
+[[files]]
+file = "mods/showcase-item.pw.toml"
+hash = "f17ebbc2e710b6f29c8d8a47eacbc6860141219a68fbcab5a807a40660b3c5e3"
 metafile = true
 
 [[files]]
@@ -1296,6 +1346,11 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "ca9e4861ab0cfeb2ea854e0f92f147c82e7036f2a5f8682ae088aabcc616aa7c"
+metafile = true
+
+[[files]]
+file = "mods/trample-no-more.pw.toml"
+hash = "8017ffc22b88e159d0f3921397640bea2f9d0688d0c07016d3d8400c051b2ee7"
 metafile = true
 
 [[files]]
