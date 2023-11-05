@@ -659,6 +659,11 @@ hash = "bba2ff33b3a66d3c03555b2ef1547ecf9280b6b2314d3d6cae6d965148c3de4c"
 metafile = true
 
 [[files]]
+file = "mods/hazard-diamond.pw.toml"
+hash = "5229f23306bb86a061d73d7aa88d44cd3b4f6e5022c2bf54361ef40967525da3"
+metafile = true
+
+[[files]]
 file = "mods/hexal-forge-1.20.1-0.3.0-2.jar"
 hash = "2ddce02b33acd981ae357d3913a46d083c67baed91488126fa1d8b8434950e3a"
 
@@ -1301,6 +1306,11 @@ hash = "5868ddf9bebcb6f94642623915cf46c26330030db44303335ae75bf7c234724e"
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "d956cf0f76876125ccdb7ef0451006e6082fae0a078162a775d7617bdfe3090d"
+metafile = true
+
+[[files]]
+file = "mods/terralith-biome-saplings.pw.toml"
+hash = "2e59aff1641d5e00758aa7698d76785b63c9ee717130d52eba7483ea467a7745"
 metafile = true
 
 [[files]]
