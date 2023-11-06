@@ -10,6 +10,10 @@ file = "mods/AdvancedPeripherals-1.20.1-0.7.33b_PATCHED.jar"
 hash = "d0afcc853989204d3b455e9e99b232fce65e8b646bea90a9d2c7f4b29b3d61b0"
 
 [[files]]
+file = "mods/Applied-Botanics-forge-1.5.0.jar"
+hash = "5e95e2874d3de6b726813141702d19c5320511f54ddaf1f145de8d2d1b32f29f"
+
+[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 hash = "6140ac00c6e2080534975b121f3f2188001ffe6ed7a4c836f8c1dac20cda63f8"
 metafile = true
@@ -917,9 +921,8 @@ hash = "fdbb444431bcc96a17f21fee6f069985b257a19b718a639fdcc2d03fa137e932"
 metafile = true
 
 [[files]]
-file = "mods/mega.pw.toml"
-hash = "05859d5a9771d8b25bb2fef4bf0e9c546cd4f1539deef5de638221c1270841e9"
-metafile = true
+file = "mods/megacells-forge-2.3.0-1.20.1.jar"
+hash = "210b3851107834ad6bb156f414f5155a7526a951c458853db8595b70b9e52b51"
 
 [[files]]
 file = "mods/mekanism-additions.pw.toml"
