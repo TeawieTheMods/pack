@@ -1419,6 +1419,11 @@ hash = "dad1eaefe4050aa29a82958c4f956ec28a140791d458e75757fef8b939210972"
 metafile = true
 
 [[files]]
+file = "mods/valhelsia-core.pw.toml"
+hash = "dfd979a3e6002e7fe8506a91d0dadcc4231ec4ffe0ec194e3c1105b4b80f7024"
+metafile = true
+
+[[files]]
 file = "mods/vinery.pw.toml"
 hash = "c66aa3128ea520b28e02469b8749182e8def4fcdc4462134ad27ac1e9f7d6c11"
 metafile = true
