@@ -599,11 +599,6 @@ hash = "c03ad50ab5df88a251e335fa8c6a3cfb0621279c76ce9661969450f501d6acf4"
 metafile = true
 
 [[files]]
-file = "mods/forbidden-arcanus.pw.toml"
-hash = "2b0315b73c14e48c4024ddbfa3ff7a593a9470ca449cedcbbe90b969f39ddb56"
-metafile = true
-
-[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "2cc92962d3e93470b886d5cc6b4e359ae2c7294af7e1faf14461d576ede9a005"
 metafile = true
@@ -1416,11 +1411,6 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "dad1eaefe4050aa29a82958c4f956ec28a140791d458e75757fef8b939210972"
-metafile = true
-
-[[files]]
-file = "mods/valhelsia-core.pw.toml"
-hash = "dfd979a3e6002e7fe8506a91d0dadcc4231ec4ffe0ec194e3c1105b4b80f7024"
 metafile = true
 
 [[files]]
