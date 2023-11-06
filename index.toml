@@ -100,6 +100,11 @@ hash = "f573cd0cec898aae70fafbd43c2305d566d826c6864b072165bd2aade263a199"
 metafile = true
 
 [[files]]
+file = "mods/aquaculture.pw.toml"
+hash = "b2f5bbb901028461e8a1e949ea299ca4f32ca9da88dbccaa0bcdef16022430b5"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "b7321e670cc58aa8062f7cae470c9806c2ed83680ca598df5fe6e75ab40df452"
 metafile = true
@@ -454,6 +459,11 @@ hash = "38fc0d1293e36c0e9a7a750ba8c51cc5587b6dfc8d0ac39a9e2110b17fce6ed3"
 metafile = true
 
 [[files]]
+file = "mods/domum-ornamentum.pw.toml"
+hash = "d616c26d95b6e468c5b1b6be91b7cb5537b8039d270395abaca3675aa03f97f7"
+metafile = true
+
+[[files]]
 file = "mods/ducky-periphs.pw.toml"
 hash = "3223636654b690a235a48dc94af6ab52fb09522d3c75ef192905c2baf1dc5b47"
 metafile = true
@@ -511,6 +521,11 @@ metafile = true
 [[files]]
 file = "mods/ends-delight.pw.toml"
 hash = "8103d9e0f49919e1868b5c6f82430b648148bb22c0f6ce24982f54070b6a5ce4"
+metafile = true
+
+[[files]]
+file = "mods/energymeter.pw.toml"
+hash = "5e08408d0b54c36bee36fa3328bdcacff186656d51bbe3bf033b1b3ecb492daf"
 metafile = true
 
 [[files]]
@@ -581,6 +596,11 @@ metafile = true
 [[files]]
 file = "mods/flux-networks.pw.toml"
 hash = "c03ad50ab5df88a251e335fa8c6a3cfb0621279c76ce9661969450f501d6acf4"
+metafile = true
+
+[[files]]
+file = "mods/forbidden-arcanus.pw.toml"
+hash = "2b0315b73c14e48c4024ddbfa3ff7a593a9470ca449cedcbbe90b969f39ddb56"
 metafile = true
 
 [[files]]
@@ -807,6 +827,11 @@ hash = "5d41b61ec93c5d5e6f5b923f749a33f8282ad5638f6f0a117df3afa522801727"
 metafile = true
 
 [[files]]
+file = "mods/libx.pw.toml"
+hash = "9f0331b17175772ea2ec030b0e79683534958e3f681f58ce5d574ba58374cebd"
+metafile = true
+
+[[files]]
 file = "mods/little-contraptions.pw.toml"
 hash = "e3fff1f0b3597194a0d0f14dfbdc3133c2a739538a3fafd65638a8b40b13835f"
 metafile = true
@@ -972,12 +997,22 @@ hash = "621f1001c3ea9b962367497181fab21eb0cc64bb8ea0b79e504d85775439f659"
 metafile = true
 
 [[files]]
+file = "mods/more-red.pw.toml"
+hash = "18d3ebdaddfbfedc8a694e96ce17a5423599d440809a09d5c5cdcb6ecf8592f5"
+metafile = true
+
+[[files]]
 file = "mods/moreiotas-forge-1.20.1-0.1.0-3.jar"
 hash = "77eb81c7990c40c110ba9e2b5a010025bc59f271202eb4f0ba7564510c6f49e9"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "d71fd32a56325b8fe378cfafe78f81d985436b2fd44638f5bab1f1386680b096"
+metafile = true
+
+[[files]]
+file = "mods/moyai.pw.toml"
+hash = "6bf13472a293a9e995918e085ebc294d178447f84e55258935c43a3dafe08ff6"
 metafile = true
 
 [[files]]
@@ -1072,6 +1107,11 @@ metafile = true
 [[files]]
 file = "mods/platforms.pw.toml"
 hash = "6b0f00495ed2f68eefb169092f01f2b69f62076a10323cddac86f4c2811f376b"
+metafile = true
+
+[[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "deb516bc0950c5771c48870b653789b0aa0d3b77948087e0920e7c99940f7030"
 metafile = true
 
 [[files]]
@@ -1366,6 +1406,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "9b3bb44a08158f10e8c2d88c4d80a987ba45e5667670dfbbfd55890fc247f239"
+metafile = true
+
+[[files]]
+file = "mods/travel-anchors.pw.toml"
+hash = "a047d4d26d9d9742352136d14fabf7a461fc9cb397fa4c3b9a398ea3b688d482"
 metafile = true
 
 [[files]]

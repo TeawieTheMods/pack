@@ -1,0 +1,8 @@
+name = "Forbidden and Arcanus"
+filename = "forbidden_arcanus-1.20.1-2.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MdlnLS7Q/versions/tR0oXIjC/forbidden_arcanus-1.20.1-2.2.1.jar"
+hash-format = "sha1"
+hash = "4bc30b81a3a83482678c997e437f84cfaccb88c1"

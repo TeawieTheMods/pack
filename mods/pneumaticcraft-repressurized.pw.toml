@@ -1,0 +1,8 @@
+name = "PneumaticCraft: Repressurized"
+filename = "pneumaticcraft-repressurized-6.0.10+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ncAcdgk7/versions/at6NiV7i/pneumaticcraft-repressurized-6.0.10%2Bmc1.20.1.jar"
+hash-format = "sha1"
+hash = "bc0ca1a4306cbb70e770f6d2b4beea5505079c1b"
