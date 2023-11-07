@@ -2,7 +2,7 @@
 name = "Inventory Profiles Next"
 description = "Inventory Profiles Next."
 side = "client"
-choices = ["ipn_off", "ipn_on"]
+choices = ["ipn_off", {id = "ipn_on", default = true}]
 
 [flavor_groups.recipe_viewer]
 name = "Recipe Viewer"
@@ -14,11 +14,12 @@ name = "None"
 description = "No recipe viewer. Good if you want to use REI or similar."
 [[flavor_groups.recipe_viewer.choices]]
 id = "emi"
-name = "None"
+name = "EMI"
+default = true
 description = "EMI. Has recipe trees and is generally better(imo) but may have some mod compat issues."
 [[flavor_groups.recipe_viewer.choices]]
 id = "jei"
-name = "None"
+name = "JEI"
 description = "JEI. Has less mod compat issues than EMI."
 
 [metafile.jei]
