@@ -1308,11 +1308,6 @@ hash = "2fbb567ed29a27a717a22461ef0868d17963ced0af6ab836c3025faae5b374e1"
 metafile = true
 
 [[files]]
-file = "mods/starlight-forge.pw.toml"
-hash = "f343ca4469e393d4055137a1dc228441a80be2a755d634001e037837dd7a56b6"
-metafile = true
-
-[[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "d8c0f34c7d18243a19e7aa8c87f511106df3f86e91fe6da17db0b5a0bab4c415"
 metafile = true
