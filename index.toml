@@ -896,6 +896,11 @@ hash = "083646e232d179cecce7bc7576153b5cef01e767f705a4cf8124b53346faebfd"
 metafile = true
 
 [[files]]
+file = "mods/mahou-tsukai.pw.toml"
+hash = "93501e67fe226cdd1b5164ee370b3775a5aca27b985a3c83799cccf119f491bd"
+metafile = true
+
+[[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "98e67f2f1ca8a9450169edb30d288eb2d481515a7b4a329aac77f5d23200eef2"
 metafile = true
@@ -972,6 +977,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "cee43ab4748d906c4494abe01ff8b5756c517cc04b3f1ab5a0843b5d8d7eb44a"
+metafile = true
+
+[[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "b11b60cca2238b35712c7ec33649d49eb2a25ef8d3403e570da09acac51261f0"
 metafile = true
 
 [[files]]
@@ -1357,6 +1367,11 @@ hash = "4eab3b2949597a3a1863d947327a706e3c54a105d6ee06a8c5751d10131ba6c7"
 metafile = true
 
 [[files]]
+file = "mods/theurgy.pw.toml"
+hash = "d63fed06599d94332e2f2eee25ec06289e0041122c4a23daeb1334e980dadef4"
+metafile = true
+
+[[files]]
 file = "mods/time-in-a-bottle-forge.pw.toml"
 hash = "72ced7ade7b22637f28e2786e93e0e8afad3b7c3fd402998e08d8c688a93af6e"
 metafile = true
@@ -1409,6 +1424,11 @@ metafile = true
 [[files]]
 file = "mods/vinery.pw.toml"
 hash = "c66aa3128ea520b28e02469b8749182e8def4fcdc4462134ad27ac1e9f7d6c11"
+metafile = true
+
+[[files]]
+file = "mods/voidscape.pw.toml"
+hash = "2e0e4ae65925f883ecf8e0093b97437f97a7b2accd5459e32ce6cac2514ed7e2"
 metafile = true
 
 [[files]]
