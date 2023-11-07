@@ -1,8 +1,8 @@
-[flavor_groups.ipn]
+[flavor_groups.inventory-profiles-next]
 name = "Inventory Profiles Next"
 description = "Inventory Profiles Next."
 side = "client"
-choices = ["ipn_off", {id = "ipn_on", default = true}]
+choices = ["inventory-profiles-next_off", "inventory-profiles-next_on"]
 
 [flavor_groups.recipe_viewer]
 name = "Recipe Viewer"
@@ -15,7 +15,6 @@ description = "No recipe viewer. Good if you want to use REI or similar."
 [[flavor_groups.recipe_viewer.choices]]
 id = "emi"
 name = "EMI"
-default = true
 description = "EMI. Has recipe trees and is generally better(imo) but may have some mod compat issues."
 [[flavor_groups.recipe_viewer.choices]]
 id = "jei"
@@ -28,6 +27,6 @@ flavors = ["jei", "emi"]
 flavors = "emi"
 
 [metafile.inventory-profiles-next]
-flavors = "ipn_on"
+flavors = "inventory-profiles-next_on"
 [metafile.libipn]
-flavors = "ipn_on"
+flavors = "inventory-profiles-next_on"
