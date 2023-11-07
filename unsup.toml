@@ -6,7 +6,7 @@ choices = ["ipn_off", {id = "ipn_on", default = true}]
 
 [flavor_groups.recipe_viewer]
 name = "Recipe Viewer"
-description = "Which recipe viewer you'd like to use.\nI(skyevg) recommend EMI"
+description = "Which recipe viewer you'd like to use."
 side = "client"
 [[flavor_groups.recipe_viewer.choices]]
 id = "no_recipe_viewer"
