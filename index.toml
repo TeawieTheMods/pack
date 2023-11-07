@@ -478,11 +478,6 @@ hash = "33b44f9dd0b1fef2c70b7dfa2579762051df57b13c78535be927a40dd4cf98a6"
 metafile = true
 
 [[files]]
-file = "mods/earth2java.pw.toml"
-hash = "04fee0eded8ac521d906a4d0e81ea4cab71dab4e973bfc52ca7f210dd68e755c"
-metafile = true
-
-[[files]]
 file = "mods/easy-villagers.pw.toml"
 hash = "60556461f18ba2a0660099dfa91dd2279cb231977cbe7193e3e88fe8b4418612"
 metafile = true
