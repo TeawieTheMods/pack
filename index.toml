@@ -751,6 +751,11 @@ hash = "b328a46eaba71b9fb75fe6cf54c714fe0561723291b20f9bcf27f22771b2b3b0"
 metafile = true
 
 [[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "3d280256e5725126f8116dae2b209e581528554a072a71636be42739c48d8354"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "0460917d82c6a57e7675df7a1f6b31f4209f0e34b7b3e47edd7f7d75467dc823"
 metafile = true
