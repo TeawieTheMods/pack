@@ -3,11 +3,11 @@ filename = "LibX-1.20.1-5.0.7.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/qEH6GYul/versions/kMmNALv4/LibX-1.20.1-5.0.7.jar"
 hash-format = "sha1"
 hash = "79d2d30f3a4ef022daf15e373239df260e103e97"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4795564
-project-id = 412525
+[update.modrinth]
+mod-id = "qEH6GYul"
+version = "kMmNALv4"

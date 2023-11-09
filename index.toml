@@ -288,6 +288,11 @@ hash = "3bfb89c4d79052b3052da2713e3250225851e362b8979f8534538c1fdec257f7"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "7df8b9795c51643f31cba87ecaea0db96cf2edae97f09e1d37f85fba82adceb8"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "fbfe78fc2ee5344d22a88a41dc69027002ac86eebf1c9401f93b22876c8f8ed3"
 metafile = true
@@ -827,7 +832,7 @@ metafile = true
 
 [[files]]
 file = "mods/libx.pw.toml"
-hash = "9f0331b17175772ea2ec030b0e79683534958e3f681f58ce5d574ba58374cebd"
+hash = "b685e5f66fedd526af248661aed6c6df3deaf4f9a7a44ec7372a357848b5faa0"
 metafile = true
 
 [[files]]
@@ -1318,6 +1323,11 @@ hash = "2fbb567ed29a27a717a22461ef0868d17963ced0af6ab836c3025faae5b374e1"
 metafile = true
 
 [[files]]
+file = "mods/starter-kit.pw.toml"
+hash = "28486737522d360de011b65f7637c241f4db3618ecda9786bd14f009e1b48172"
+metafile = true
+
+[[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "d8c0f34c7d18243a19e7aa8c87f511106df3f86e91fe6da17db0b5a0bab4c415"
 metafile = true
@@ -1424,6 +1434,11 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "dad1eaefe4050aa29a82958c4f956ec28a140791d458e75757fef8b939210972"
+metafile = true
+
+[[files]]
+file = "mods/utilitix.pw.toml"
+hash = "ebab167a111bd5c4d404bef876f2bee9f705dbd91f358154717fc5b35acc27ee"
 metafile = true
 
 [[files]]
