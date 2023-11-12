@@ -1,0 +1,13 @@
+name = "Pipez"
+filename = "pipez-1.20.1-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iRmWy6ga/versions/7CiKk8Zh/pipez-1.20.1-1.2.2.jar"
+hash-format = "sha1"
+hash = "00e6bd8f2cdb6b2835d4393b96806181c744cc7f"
+
+[update]
+[update.modrinth]
+mod-id = "iRmWy6ga"
+version = "7CiKk8Zh"

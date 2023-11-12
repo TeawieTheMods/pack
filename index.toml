@@ -64,6 +64,16 @@ hash = "7ec07fbf8bd444722601e8acedc7ea199a40edc9a37c4c5df1e449712d0e3dc4"
 metafile = true
 
 [[files]]
+file = "mods/alchemistry.pw.toml"
+hash = "ad8e84dc8f6d5ccf78432345cec082c76a2f828b8e014986cf3080626cd0840e"
+metafile = true
+
+[[files]]
+file = "mods/alchemylib.pw.toml"
+hash = "b0a1570260b338de193d82c858679fe43a48c71261a6d2d6dff9e7d51f13960a"
+metafile = true
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "51f5ed630c8d139fa0e8017f975d3d3beb50b944fa4584c51e096c6935dd54da"
 metafile = true
@@ -250,6 +260,11 @@ metafile = true
 [[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "3777b7dbfbcbb6b3935ad86bc588a604dd171812c6461e9b5728f6415395c934"
+metafile = true
+
+[[files]]
+file = "mods/chemlib.pw.toml"
+hash = "ff458484f0e77460d812abdc2bceec5713962e797e6b7503ae4b5474ddf51016"
 metafile = true
 
 [[files]]
@@ -711,6 +726,11 @@ hash = "cd5cf6c686da51865c093e590c16dd8766e60e6fc855aefdc7382ec751c314dd"
 metafile = true
 
 [[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "f13d3b44b9c97417f85e68620b14e080d46756713b90ee1a023d6f02b41c053b"
+metafile = true
+
+[[files]]
 file = "mods/integrated-crafting.pw.toml"
 hash = "5273bfbbf31b8279d9335b9159bbd9b8ba70273005c72ffdd6f7aa8d0df2347b"
 metafile = true
@@ -1110,6 +1130,11 @@ metafile = true
 [[files]]
 file = "mods/pig-pen-cipher.pw.toml"
 hash = "f896fefa7466845181da9db06ba4a89865f54b406ff3b1fb65773c66614b6f1b"
+metafile = true
+
+[[files]]
+file = "mods/pipez.pw.toml"
+hash = "2d3455af7a34fc821a6825c7f9c488694674cb584733c3e769ad9e51998e5697"
 metafile = true
 
 [[files]]
