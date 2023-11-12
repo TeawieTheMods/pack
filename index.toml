@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "b7321e670cc58aa8062f7cae470c9806c2ed83680ca598df5fe6e75ab40df452"
+hash = "219db8b20676139a72d7efd96884a2964955979447c82a1b06137d0e483bc5ab"
 metafile = true
 
 [[files]]
@@ -797,7 +797,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "ac7e428dcfa3ff3c861088ec50585fcd6d8ae7f2e9ce4321781c4fd864691a34"
+hash = "911264ca59a65f11131b707516450152de3ebf96ba71cd57efe93d8267d17151"
 metafile = true
 
 [[files]]
@@ -1138,6 +1138,11 @@ hash = "37dba872cd68a808a4c3cad067b9ffcb208200f05055b0b9188467e330dc7b05"
 metafile = true
 
 [[files]]
+file = "mods/probejs.pw.toml"
+hash = "6a8621c099111247d7d93f7c4b3d233ad5c1cd73350f40805b6de0a3c2a7d855"
+metafile = true
+
+[[files]]
 file = "mods/productivebees.pw.toml"
 hash = "b8f64c211fbdea372487edf29ad65ab9bb28834992aee77ac2cc0e17475bf8f5"
 metafile = true
@@ -1229,7 +1234,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "c4be54a675417af1a25d8b53f7250e45b6549a5387dfa5224d524eaa535741a1"
+hash = "a0afbc792737b9ec6a620a79f5e911a67416122d3bef126b9acd0fac0a14d379"
 metafile = true
 
 [[files]]
