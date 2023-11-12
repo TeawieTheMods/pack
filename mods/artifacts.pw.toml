@@ -1,13 +1,13 @@
 name = "Artifacts"
-filename = "artifacts-forge-9.1.0.jar"
+filename = "artifacts-forge-9.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/Czb4tu7o/artifacts-forge-9.1.0.jar"
-hash-format = "sha1"
-hash = "1c7af255b96ad81c30542e106521d43c9226e692"
+url = "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/r3FHm0nE/artifacts-forge-9.2.0.jar"
+hash-format = "sha512"
+hash = "bba0e2f445517dd0a913033654623b206c48203c72790dc269ede63bd954414e9fd3661f14635ec43befeff5c00f1915dc1db46cd87bc1058813149a02cd9e4b"
 
 [update]
 [update.modrinth]
 mod-id = "P0Mu4wcQ"
-version = "Czb4tu7o"
+version = "r3FHm0nE"

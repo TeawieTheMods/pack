@@ -1,18 +1,18 @@
 name = "JourneyMap"
-filename = "journeymap-1.20.1-5.9.15-forge.jar"
+filename = "journeymap-1.20.1-5.9.16-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/dxUbE87b/journeymap-1.20.1-5.9.15-forge.jar"
-hash-format = "sha1"
-hash = "72648255ed84f990f318ac64158ac47535e95a01"
-
-[option]
-optional = true
-default = true
-description = "Journeymap. Disable if you want other map mod."
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/hjBCWFpC/journeymap-1.20.1-5.9.16-forge.jar"
+hash-format = "sha512"
+hash = "fdd1c39c10ca8e6a83e23bb0edd0af782da8672ee0447bb49d02d0f50bd1c67f718ee4624fc8987bf2b9ec620937d25eaef26efd446c658ca9c52ac77b947a08"
 
 [update]
 [update.modrinth]
 mod-id = "lfHFW1mp"
-version = "dxUbE87b"
+version = "hjBCWFpC"
+
+[option]
+optional = true
+description = "Journeymap. Disable if you want other map mod."
+default = true

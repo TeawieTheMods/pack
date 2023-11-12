@@ -1,18 +1,18 @@
 name = "EMI"
-filename = "emi-1.0.23+1.20.1+forge.jar"
+filename = "emi-1.0.24+1.20.1+forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/ShejnJfY/emi-1.0.23%2B1.20.1%2Bforge.jar"
-hash-format = "sha1"
-hash = "b2029871db083d0c9cd358c111c0e10fab2080b0"
-
-[option]
-optional = true
-default = true
-description = "Requires JEI to function (hence why JEI isnt optional), but it might have a few issues with recipes. Only disable if you prefer JEI or require a recipe that isn't working properly."
+url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/hIuOBjbs/emi-1.0.24%2B1.20.1%2Bforge.jar"
+hash-format = "sha512"
+hash = "e93248142a675526e30b442eb99485858c2d93b794671bf429c44c6b49afd46b551705174be6c750810decaa3bbd7a178814c230a001d8a10304be03942595fe"
 
 [update]
 [update.modrinth]
 mod-id = "fRiHVvU7"
-version = "ShejnJfY"
+version = "hIuOBjbs"
+
+[option]
+optional = true
+description = "Requires JEI to function (hence why JEI isnt optional), but it might have a few issues with recipes. Only disable if you prefer JEI or require a recipe that isn't working properly."
+default = true

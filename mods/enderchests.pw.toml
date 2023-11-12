@@ -1,13 +1,13 @@
 name = "EnderChests"
-filename = "enderchests-forge-1.20.1-1.1.jar"
+filename = "enderchests-forge-1.20.1-1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gxSiDoVF/versions/DML8bFMK/enderchests-forge-1.20.1-1.1.jar"
-hash-format = "sha1"
-hash = "9fdbd0fb5654a917d0e844ca5808c6ca0c6f34b9"
+url = "https://cdn.modrinth.com/data/gxSiDoVF/versions/ir9qP0bw/enderchests-forge-1.20.1-1.2.jar"
+hash-format = "sha512"
+hash = "97a470da5f3a8a1ce866af800fd49c1664a47c067aee1a816b7e92b2652c81f083a1e376e2a6eb3d319f9f8d7120b940a0725ffa684233fca799ba66e05d140d"
 
 [update]
 [update.modrinth]
 mod-id = "gxSiDoVF"
-version = "DML8bFMK"
+version = "ir9qP0bw"
