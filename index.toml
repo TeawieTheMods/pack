@@ -855,11 +855,14 @@ hash = "65eff03acc15ba74cb36207dccb3f0580730f7002f1b3545a3a433312420a06f"
 metafile = true
 
 [[files]]
+<<<<<<< HEAD
 file = "mods/lets-do-cheese.pw.toml"
 hash = "948e67971e4e064abe25cf85efedf2beae41a3aecf446593da4c290a334352d6"
 metafile = true
 
 [[files]]
+=======
+>>>>>>> 4fb025b (lets no longer do cheese)
 file = "mods/libipn.pw.toml"
 hash = "5d41b61ec93c5d5e6f5b923f749a33f8282ad5638f6f0a117df3afa522801727"
 metafile = true
