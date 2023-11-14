@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "default-server.properties"
+hash = "bad54715aeb55bb0bc1a3003b6e7eff0c9131400e071edf46df3227622ff3973"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "96f9983d86fa756ca973306fca579288302f26482e2de6b69d4845e24f03ffb6"
 metafile = true
@@ -1394,7 +1398,7 @@ metafile = true
 
 [[files]]
 file = "mods/teawieks-1.0.0.jar"
-hash = "5868ddf9bebcb6f94642623915cf46c26330030db44303335ae75bf7c234724e"
+hash = "c88c65d56c7e16253850cabc53d172be5821334f6302069603f796af94d93b97"
 
 [[files]]
 file = "mods/terrablender.pw.toml"
@@ -1495,6 +1499,10 @@ metafile = true
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "762fc9b6eaf8e8698cea5d010e4b15e543d5d10b4a4b352b861674f52b32296f"
 metafile = true
+
+[[files]]
+file = "mods/wnboi-0.1.0b-forge.jar"
+hash = "9e4d0b9b577bcb14e6e247baf0320f335dae0612842c0e24080d27b709932e5a"
 
 [[files]]
 file = "mods/xnet-gases.pw.toml"
