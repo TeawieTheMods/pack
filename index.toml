@@ -463,6 +463,11 @@ hash = "2556e3b026a3cd00bad5d7da0894d1d2e8dbb5afeabb877367bd489659ec80c9"
 metafile = true
 
 [[files]]
+file = "mods/default-server-properties.pw.toml"
+hash = "79bc44e505f54f9b8e0910cc44f43967ed70414021b477d09ca953556d29a6b5"
+metafile = true
+
+[[files]]
 file = "mods/defaultsettings.pw.toml"
 hash = "5a105e80bc36fc5b8560c9b27572202ec821eab8d27d5bd71d2e661abbd53542"
 metafile = true
@@ -803,6 +808,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "7e55b4f6c11ae1665ffdd18edbd84f8f4752b2a7080ee3c316af6c4a699f5003"
+metafile = true
+
+[[files]]
+file = "mods/jump-over-fences.pw.toml"
+hash = "efdf791c527507722fb3b190e32bd53c454267e7ce783e7e618a63aab80d3b29"
 metafile = true
 
 [[files]]
