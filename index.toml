@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Mekanism/additions.toml"
+hash = "d0c47935639c73d9e3353d95c7cb9656521728abc25b636876e93944debedf82"
+
+[[files]]
 file = "default-server.properties"
 hash = "bad54715aeb55bb0bc1a3003b6e7eff0c9131400e071edf46df3227622ff3973"
 
