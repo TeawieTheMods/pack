@@ -18,6 +18,10 @@ file = "mods/Applied-Botanics-forge-1.5.0.jar"
 hash = "62d3bbb47a2e147cc5afb84ff6e70ad6acd9627364badee89137ea21221d42e7"
 
 [[files]]
+file = "mods/CTM_DEV-1.20.1-1.1.8+8d8f8cc.jar"
+hash = "d7b5c5520333cbd8dc20920960b7abdbaada16b1d1fa7acd8a821846e9144810"
+
+[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 hash = "ab67434c8bc0d9dd724138ea930299e913b76dddfbb189c4e1a21f7e8c3e80cb"
 metafile = true
@@ -680,6 +684,10 @@ metafile = true
 file = "mods/get-it-together-drops.pw.toml"
 hash = "7bef7acb5b13ec858c5554a8c3d1fde694fa934a58b22e2aa5770989218ca064"
 metafile = true
+
+[[files]]
+file = "mods/glassential-forge-1.20.1-1.2.4.jar"
+hash = "5210f8308417132618b56d925e8628051c1354f459237c23204c22ef553e6a37"
 
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
