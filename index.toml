@@ -951,11 +951,6 @@ hash = "083646e232d179cecce7bc7576153b5cef01e767f705a4cf8124b53346faebfd"
 metafile = true
 
 [[files]]
-file = "mods/mahou-tsukai.pw.toml"
-hash = "93501e67fe226cdd1b5164ee370b3775a5aca27b985a3c83799cccf119f491bd"
-metafile = true
-
-[[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "98e67f2f1ca8a9450169edb30d288eb2d481515a7b4a329aac77f5d23200eef2"
 metafile = true
