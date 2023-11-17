@@ -861,6 +861,11 @@ hash = "a343ed41b2955426d696884d6bd39d354c991718166192cbf397f45aaa18a292"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-beacons-reforged.pw.toml"
+hash = "4b2912730de7edc6a888157cb9b0a63ea84534a842b011c4b4fe7cdf1a4e7d35"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
 hash = "94f71665150eac2330cc0fac02933ed759c77b0bd51bc9d72f8913550cba0d4d"
 metafile = true
