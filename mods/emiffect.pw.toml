@@ -1,0 +1,13 @@
+name = "EMIffect"
+filename = "emiffect-forge-1.1.1+mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/705gWllI/versions/5pUxyTP9/emiffect-forge-1.1.1%2Bmc1.20.1.jar"
+hash-format = "sha1"
+hash = "002589455ae833bc97204930779319a3766d6ae5"
+
+[update]
+[update.modrinth]
+mod-id = "705gWllI"
+version = "5pUxyTP9"

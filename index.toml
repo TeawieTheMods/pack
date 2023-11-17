@@ -544,6 +544,16 @@ hash = "834505b1aaf8465bf6d62f740177ed0c8c538cbed3c03a527c16b2579dc08d31"
 metafile = true
 
 [[files]]
+file = "mods/emiffect.pw.toml"
+hash = "297061023f6ee2ffe3f3c273877e58ac76b3b663118ad081e42cf580706c4d01"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "46fcce1ca7dcc368536d06cfec44758dcb88453c4046583c14989a38fcd74981"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "7364b12718ceb3dce5caf8118d8f71290efc033cff198b3131b05f75630f3d27"
 metafile = true
@@ -838,6 +848,11 @@ metafile = true
 [[files]]
 file = "mods/jumpy-boats.pw.toml"
 hash = "b1897c07df275f2c416a909aae7f4cb79e300a65123b4a58a9bda2ed002c85b2"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "d9ede6fcff6453daf3f9516e5db339009f45d585466cbace8dbaf5fd06535ead"
 metafile = true
 
 [[files]]
