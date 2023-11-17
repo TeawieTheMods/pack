@@ -1,0 +1,13 @@
+name = "LootJS: KubeJS Addon"
+filename = "lootjs-forge-1.20.1-2.10.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fJFETWDN/versions/jvfh1QhA/lootjs-forge-1.20.1-2.10.3.jar"
+hash-format = "sha1"
+hash = "2c1800e7dc5406e0dc67391ca6349c20b72ebd6d"
+
+[update]
+[update.modrinth]
+mod-id = "fJFETWDN"
+version = "jvfh1QhA"

@@ -847,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "911264ca59a65f11131b707516450152de3ebf96ba71cd57efe93d8267d17151"
+hash = "ac7e428dcfa3ff3c861088ec50585fcd6d8ae7f2e9ce4321781c4fd864691a34"
 metafile = true
 
 [[files]]
@@ -898,6 +898,11 @@ metafile = true
 [[files]]
 file = "mods/login-protection.pw.toml"
 hash = "d6669ccd9ed05cf4859dee3fd2a46ef5aef12179e1f505c8dd92dc653033897a"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "47b2f03fd1adc7676425b1b13f7afb153e3e8ae6c4bb5d3818eafe5c5305c786"
 metafile = true
 
 [[files]]
