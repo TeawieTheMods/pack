@@ -1,0 +1,13 @@
+name = "CERBON's Better Beacons [FORGE]"
+filename = "CerbonsBetterBeacons-Forge-1.20.1-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "80fd9ebae8545040b2e3f7af9990bfcba2868be1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4834947
+project-id = 921066

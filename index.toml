@@ -269,6 +269,11 @@ hash = "ea14e6e2403900d059a427f5248360ea2fa41f2dc491bfcc2006b80a0da9bd03"
 metafile = true
 
 [[files]]
+file = "mods/cerbons-better-beacons-forge.pw.toml"
+hash = "6ea1cb7d2363993f86ef515c42896f8d0dee8e75b75337ee7a6d085ccce96a93"
+metafile = true
+
+[[files]]
 file = "mods/charging-gadgets.pw.toml"
 hash = "f5cb29abad0f88ca25bf862f1e012acaeacccd3b7bca2790e8a8a6a3606ab1fc"
 metafile = true
@@ -831,6 +836,11 @@ hash = "3de2843a7072f8e7308ba53b1ac2b3f1a38312d4acf69d5cf116c9ac684f3778"
 metafile = true
 
 [[files]]
+file = "mods/jepp.pw.toml"
+hash = "3295b7cafc8aeb38fc13eecab409677c6e520e72e7c5b2a38923b181f05cafda"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "11881ea784258bff0d20827088f9182db78888a0801ca54e02d522602d28fa3d"
 metafile = true
@@ -843,6 +853,11 @@ metafile = true
 [[files]]
 file = "mods/jumpy-boats.pw.toml"
 hash = "b1897c07df275f2c416a909aae7f4cb79e300a65123b4a58a9bda2ed002c85b2"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-archaeology.pw.toml"
+hash = "a343ed41b2955426d696884d6bd39d354c991718166192cbf397f45aaa18a292"
 metafile = true
 
 [[files]]
