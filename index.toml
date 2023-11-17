@@ -185,6 +185,11 @@ hash = "5fd19cba1eeaf7a0ab1842cc6941035457c114ed4bec845c0a909601bd613eee"
 metafile = true
 
 [[files]]
+file = "mods/beacons-for-all.pw.toml"
+hash = "c721a8eefe2f6065a5c790228f54d06e41af6be5f25eb49302959ca545d5f3bd"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "262483c4f54a8171396664e16917c2d2f9145db7f9052fac99aebfb53b40e3cb"
 metafile = true
