@@ -200,6 +200,16 @@ hash = "e77317bc617d352157466fef3cf8a6a952dfd35cd7bd014b2a489c5ece59eca4"
 metafile = true
 
 [[files]]
+file = "mods/better-beacon-placement.pw.toml"
+hash = "fcb7d2d5deea2bd29f159718d80f20dad759cabe32bd324ebb5d334bbaa54be3"
+metafile = true
+
+[[files]]
+file = "mods/better-conduit-placement.pw.toml"
+hash = "ae4f232cc3b7bd7dacdf149a0e575528213a6ec744097c9838f7615893b41c2b"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display.pw.toml"
 hash = "a4e32d17399cc10153982c2cbb701e14bc0903d18f4f11ce808fbd9b381bb36e"
 metafile = true
