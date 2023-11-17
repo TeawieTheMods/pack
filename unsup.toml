@@ -25,6 +25,20 @@ description = "JEI. Has less mod compat issues than EMI."
 flavors = ["jei", "emi"]
 [metafile.emi]
 flavors = "emi"
+[metafile.emitrades]
+flavors = "emi"
+[metafile.just-enough-effect-descriptions-jeed]
+flavors = ["jei", "emi"]
+[metafile.just-enough-mekanism-multiblocks]
+flavors = ["jei", "emi"]
+[metafile.just-enough-resources-jer]
+flavors = ["jei", "emi"]
+[metafile.just-enough-archaeology]
+flavors = ["jei", "emi"]
+[metafile.just-enough-beacons-reforged]
+flavors = ["jei", "emi"]
+[metafile.jepp]
+flavors = ["jei", "emi"]
 
 [metafile.inventory-profiles-next]
 flavors = "inventory-profiles-next_on"

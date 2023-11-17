@@ -550,7 +550,7 @@ metafile = true
 
 [[files]]
 file = "mods/emitrades.pw.toml"
-hash = "46fcce1ca7dcc368536d06cfec44758dcb88453c4046583c14989a38fcd74981"
+hash = "3f3db0626eaf988d22660379e91aa65cb10bad623a967638894300386887bb00"
 metafile = true
 
 [[files]]

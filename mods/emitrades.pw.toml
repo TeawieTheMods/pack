@@ -7,6 +7,11 @@ url = "https://cdn.modrinth.com/data/j2HhbEE7/versions/TDLTXwrz/emitrades-forge-
 hash-format = "sha1"
 hash = "a2b7ee1112db27daabd66f685f9eccae702c5ab6"
 
+[option]
+optional = true
+description = "You won't see this with unsup! Villager trades for EMI. Please manually sync with EMI's status."
+default = false
+
 [update]
 [update.modrinth]
 mod-id = "j2HhbEE7"
