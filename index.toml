@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/beacons-for-all.pw.toml"
-hash = "b20274fe9cf4685ebf691622a3e5d6360888e6dc7e86d645b4a11a06709cdd33"
+hash = "c721a8eefe2f6065a5c790228f54d06e41af6be5f25eb49302959ca545d5f3bd"
 metafile = true
 
 [[files]]

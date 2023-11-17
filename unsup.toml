@@ -7,7 +7,7 @@ choices = ["inventory-profiles-next_off", "inventory-profiles-next_on"]
 [flavor_groups.recipe_viewer]
 name = "Recipe Viewer"
 description = "Which recipe viewer you'd like to use."
-side = "client"
+side = "both"
 [[flavor_groups.recipe_viewer.choices]]
 id = "no_recipe_viewer"
 name = "None"
