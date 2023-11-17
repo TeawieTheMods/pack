@@ -1,13 +1,13 @@
-name = "Beacons For All (Fabric/Forge/Quilt)"
+name = "Beacons For All"
 filename = "beaconsforall-forge-6.2.1+1.20.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/8Cs5qOMp/versions/QtLQeJaR/beaconsforall-forge-6.2.1%2B1.20.1.jar"
 hash-format = "sha1"
 hash = "fe960513504fc544616e3f12378b3f21d096707d"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4815836
-project-id = 308641
+[update.modrinth]
+mod-id = "8Cs5qOMp"
+version = "QtLQeJaR"
