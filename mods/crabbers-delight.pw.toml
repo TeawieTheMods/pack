@@ -1,13 +1,13 @@
 name = "Crabber's Delight"
-filename = "CrabbersDelight-1.20.1-1.1.3.jar"
+filename = "CrabbersDelight-1.20.1-1.1.3a.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gBGdVBJy/versions/TkpeaWEM/CrabbersDelight-1.20.1-1.1.3.jar"
-hash-format = "sha512"
-hash = "40c5a5489d533768038f23a6d352be1270125a98151cdfefc573112cefe4147fd38e361108d485dc3589386d37c9744ff6c0ad1bda007e29c736329c05d81589"
+url = "https://cdn.modrinth.com/data/gBGdVBJy/versions/Omdrcn17/CrabbersDelight-1.20.1-1.1.3a.jar"
+hash-format = "sha1"
+hash = "98487aa1c972693b7ffb1c34789a8dfb1b17bf83"
 
 [update]
 [update.modrinth]
 mod-id = "gBGdVBJy"
-version = "TkpeaWEM"
+version = "Omdrcn17"

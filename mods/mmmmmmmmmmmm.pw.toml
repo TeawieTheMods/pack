@@ -1,13 +1,13 @@
 name = "MmmMmmMmmMmm"
-filename = "dummmmmmy-1.20-1.8.5.jar"
+filename = "dummmmmmy-1.20-1.8.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Adega8YN/versions/OktgetPL/dummmmmmy-1.20-1.8.5.jar"
+url = "https://cdn.modrinth.com/data/Adega8YN/versions/7MCqqDqj/dummmmmmy-1.20-1.8.10.jar"
 hash-format = "sha1"
-hash = "6116a1fe381d6e8dfc7f9b5c2a7e13ff09d51521"
+hash = "d6d986f719bf22bb00ac73fca98cac01d4355507"
 
 [update]
 [update.modrinth]
 mod-id = "Adega8YN"
-version = "OktgetPL"
+version = "7MCqqDqj"

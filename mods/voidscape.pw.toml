@@ -1,13 +1,13 @@
 name = "Voidscape"
-filename = "Voidscape-1.20.1-1.5.295.jar"
+filename = "Voidscape-1.20.1-1.5.310.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1afc5c6b2c7bddb5d4c142cefb6ce438acea28e2"
+hash = "9a2b21addee5cd2c7788d264cd8cc590c8fa2819"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4825383
+file-id = 4874360
 project-id = 251730
