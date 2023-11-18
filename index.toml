@@ -1,12 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Advancedperipherals/world.toml"
+hash = "0ec847a9ebfe63a56bc44b3acd849908dad5feea569d9599d8a053f19a801145"
+
+[[files]]
 file = "config/Mekanism/additions.toml"
 hash = "d0c47935639c73d9e3353d95c7cb9656521728abc25b636876e93944debedf82"
 
 [[files]]
+file = "config/apotheosis/apotheosis.cfg"
+hash = "5e9f9f1022e1707ed6b1930508384572fe42c659e331bfa8fe2e84f6aa2fb246"
+
+[[files]]
 file = "config/incontrol/loot.json"
 hash = "8fd496ba9a85955aface6d33144f4149ba97a28d095ff233c1fc1d71500b250b"
+
+[[files]]
+file = "config/integrateddynamics-common.toml"
+hash = "768d6a693a215c14f5cea6d3d4b039f51299f7a2b45eb9f385c24ea841c5194f"
 
 [[files]]
 file = "config/powah.json5"
