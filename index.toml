@@ -704,7 +704,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "3a1adb7ce5a012453cb69a3be6e0d7d54ab706c83a2939e55dd6901cedc31d0a"
+hash = "5e5100d86d0da4e93c755abd5e032f778e0cfd339bf465ff02aab0e9f5ef65b1"
 metafile = true
 
 [[files]]
