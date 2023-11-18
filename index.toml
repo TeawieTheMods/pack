@@ -5,6 +5,10 @@ file = "config/Mekanism/additions.toml"
 hash = "d0c47935639c73d9e3353d95c7cb9656521728abc25b636876e93944debedf82"
 
 [[files]]
+file = "config/incontrol/loot.json"
+hash = "8fd496ba9a85955aface6d33144f4149ba97a28d095ff233c1fc1d71500b250b"
+
+[[files]]
 file = "config/powah.json5"
 hash = "f8da5524e139823dedd892a0eae9fcb6e747bee66798929dc37a7e4f114f3d6c"
 

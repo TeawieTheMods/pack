@@ -1,0 +1,14 @@
+[
+	{
+		"mob": "naturalist:bear",
+		"player": true,
+		"item": "minecraft:beef",
+		"itemcount": "4-8"
+	},
+	{
+		"mob": "naturalist:bear",
+		"player": true,
+		"item": "minecraft:leather",
+		"itemcount": "3-6"
+	}
+]
