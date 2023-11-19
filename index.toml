@@ -653,6 +653,11 @@ hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
 metafile = true
 
 [[files]]
+file = "mods/essential-commands.pw.toml"
+hash = "28a6d5155591c13a46715a27fd982f03bfc0d8e12550b4a1c168385709b88ddd"
+metafile = true
+
+[[files]]
 file = "mods/extractinator.pw.toml"
 hash = "fd1a792c34d8ad2183ba749839c19072af2bfbe502d84d720067a929ccf492fd"
 metafile = true
@@ -1309,11 +1314,6 @@ metafile = true
 [[files]]
 file = "mods/productivebees.pw.toml"
 hash = "b8f64c211fbdea372487edf29ad65ab9bb28834992aee77ac2cc0e17475bf8f5"
-metafile = true
-
-[[files]]
-file = "mods/prometheus.pw.toml"
-hash = "53910dba5e7073465d964cb51df4ad89a59431bfb340a497f4d4d019d996da37"
 metafile = true
 
 [[files]]
