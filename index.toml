@@ -1079,6 +1079,11 @@ hash = "083646e232d179cecce7bc7576153b5cef01e767f705a4cf8124b53346faebfd"
 metafile = true
 
 [[files]]
+file = "mods/magnesium-extras.pw.toml"
+hash = "f221e891a23945b613d8344783737ca6a420c599f82204c31d0aaebb7e2e45b1"
+metafile = true
+
+[[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "98e67f2f1ca8a9450169edb30d288eb2d481515a7b4a329aac77f5d23200eef2"
 metafile = true
