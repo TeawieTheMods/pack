@@ -5,6 +5,10 @@ file = "config/Advancedperipherals/world.toml"
 hash = "0ec847a9ebfe63a56bc44b3acd849908dad5feea569d9599d8a053f19a801145"
 
 [[files]]
+file = "config/EssentialCommands.properties"
+hash = "fc0254bf0a2c92512c15065a79a13077e3ede69017bc420cb9487ae1fa2d5440"
+
+[[files]]
 file = "config/Mekanism/additions.toml"
 hash = "d0c47935639c73d9e3353d95c7cb9656521728abc25b636876e93944debedf82"
 
