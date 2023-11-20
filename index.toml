@@ -6,7 +6,7 @@ hash = "0ec847a9ebfe63a56bc44b3acd849908dad5feea569d9599d8a053f19a801145"
 
 [[files]]
 file = "config/EssentialCommands.properties"
-hash = "fc0254bf0a2c92512c15065a79a13077e3ede69017bc420cb9487ae1fa2d5440"
+hash = "0e2c5fed291e0461b7ca648d79296d059cd2933b0ed9c36c7fbcac29d5e50d47"
 
 [[files]]
 file = "config/Mekanism/additions.toml"
