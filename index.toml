@@ -34,11 +34,11 @@ hash = "7f4d78fd4c63542416a37a802d7c0cfddbc6af36ba51b819ceabf1cb979dfd6a"
 
 [[files]]
 file = "kubejs/client_scripts/bees.js"
-hash = "12a4a1925dd765ce173f179b7b9afe9268aec7b9bdf65e462e415369ab5a1e16"
+hash = "64668a2674032cf6408d84daf4d5f78e7eb3bdd8dfe1b11308f855bf1c89dde7"
 
 [[files]]
 file = "kubejs/client_scripts/tooltips.js"
-hash = "105c8588bf0294e26b6b37c019e17fdd7aa29af9716fdd1e3fbff1617a46f0ca"
+hash = "ead7f6d39fac93f6f47d3d356ebbde7adf5c9eee1796d60eb0d22933909ad811"
 
 [[files]]
 file = "kubejs/server_scripts/apotheosis.js"
@@ -46,7 +46,7 @@ hash = "9f98f34c26189fcb700dfbc1b74c5d1eb454d401da3ae07b4c7b5ce84657e76c"
 
 [[files]]
 file = "kubejs/server_scripts/bees.js"
-hash = "2dac9e617bfb65e9e58c461ab8de088c04a2b7bfe3958e0a63d27aea13f42620"
+hash = "91d75f3dfbb182d2c65e48a4bd02703610054f4e7bb0d5f03bea281dc22d0302"
 
 [[files]]
 file = "kubejs/server_scripts/powah.js"
@@ -54,11 +54,11 @@ hash = "39d1ecec51c1d5b038612f51e7b6d1575ed8867b17a941400d1bbd22e21af072"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removal.js"
-hash = "8906f2cfadafef59d100c7ba1b2102b0d3b83561cbdbef4ea4ce70ab6c410ac3"
+hash = "feabe1de4ab4248ac9142a15042d5918fb399e92c80c21395ecf701489d60374"
 
 [[files]]
 file = "kubejs/server_scripts/the_big_book_of_fuck_my_life.js"
-hash = "e964782e620f016162b4fee053f24b5966698bec55dce80b6f2c578c8556a193"
+hash = "3f7e0c71c54b931e89ec2ed285c782a1dd23abe703ae05ac69f246bb84846b9b"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

@@ -1,1 +1,1 @@
-(()=>{var e=["botania:mana_fluxfield","bhc:blade_of_vitality"];ItemEvents.tooltip(t=>{for(let a in e)t.add(e[a],"\xA74This item has been disabled.")});})();
+(()=>{var t=["botania:mana_fluxfield","bhc:blade_of_vitality"];ItemEvents.tooltip(e=>{for(let a in t)e.add(t[a],"\xA74This item has been disabled.")});})();
