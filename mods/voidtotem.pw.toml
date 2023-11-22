@@ -1,0 +1,13 @@
+name = "Void Totem"
+filename = "voidtotem-forge-1.20-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/q6eiiQ07/versions/Vehubses/voidtotem-forge-1.20-3.0.1.jar"
+hash-format = "sha1"
+hash = "2b5b4e5e366c38f961e931f12b66d328b560e66f"
+
+[update]
+[update.modrinth]
+mod-id = "q6eiiQ07"
+version = "Vehubses"

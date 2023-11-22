@@ -303,6 +303,11 @@ hash = "8e1ac677b0fa6dbb1aa9225e12ec2915f853ca41a6611dd802c988a03457e4f6"
 metafile = true
 
 [[files]]
+file = "mods/bridging-mod.pw.toml"
+hash = "6d5c924d0b0567b411160cb7a99f65b41cd09276ef7005218da6dcc62b6555ff"
+metafile = true
+
+[[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "d45de601e97a45920d5b22f954243dd9cb3bd8cb54167fc09dd9aefec41e8fcf"
 metafile = true
@@ -732,6 +737,11 @@ hash = "c03ad50ab5df88a251e335fa8c6a3cfb0621279c76ce9661969450f501d6acf4"
 metafile = true
 
 [[files]]
+file = "mods/forgematica.pw.toml"
+hash = "21e4df80a508591d60bd2935e8e669c71ae13c95d9a5400c9fa1f9fd785b6945"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "30b4357201f670c9904b7dd301bcaf28046d57f02cbc4d6d72ec789e75ae1572"
 metafile = true
@@ -1081,6 +1091,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "083646e232d179cecce7bc7576153b5cef01e767f705a4cf8124b53346faebfd"
+metafile = true
+
+[[files]]
+file = "mods/mafglib.pw.toml"
+hash = "2158991a6324a3f188b91395944b140883b68d68c9036afb5ec45664dbce0d0e"
 metafile = true
 
 [[files]]
@@ -1627,6 +1642,11 @@ metafile = true
 [[files]]
 file = "mods/voidscape.pw.toml"
 hash = "2090fd77aa785cc24a7a3e1118500897e0a3d95147be027e2ea3d0a0ccb49936"
+metafile = true
+
+[[files]]
+file = "mods/voidtotem.pw.toml"
+hash = "466dfa7d31ae7765d0b3aeb45feafb91995e28aaa2cc2f2bb130b035066bd747"
 metafile = true
 
 [[files]]
