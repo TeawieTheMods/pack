@@ -323,6 +323,11 @@ hash = "958d92f2c763942e7846f4c77b675c126cc8738a1dbc1a6f53390fa0d44b1a10"
 metafile = true
 
 [[files]]
+file = "mods/capes.pw.toml"
+hash = "7202ebfb8fb84656533749a681d5e7bc033628f94969e603def147537c454faa"
+metafile = true
+
+[[files]]
 file = "mods/carryon-2.1.2.5-FIXED.jar"
 hash = "7697f1da4dda19c1b8219f170978957df489eaaae56ea101c3e9ee52cf203128"
 
@@ -1254,6 +1259,11 @@ metafile = true
 [[files]]
 file = "mods/no-villager-death-messages.pw.toml"
 hash = "cec51853a2ef6f440649b2dd2f66de8ec544dce7bd624881f2d92c3f9a1bbdfd"
+metafile = true
+
+[[files]]
+file = "mods/nomowanderer.pw.toml"
+hash = "069224f7f2352757ca622fe73fdcf5c31a023de38053f950b71f8a3e913ceaff"
 metafile = true
 
 [[files]]
