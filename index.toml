@@ -33,6 +33,10 @@ file = "default-server.properties"
 hash = "7f4d78fd4c63542416a37a802d7c0cfddbc6af36ba51b819ceabf1cb979dfd6a"
 
 [[files]]
+file = "defaultconfigs/solcarrot-server.toml"
+hash = "30ca99bb7d9c159a3c5100719c49c712e79698ed6f9609fd832d09700736df3a"
+
+[[files]]
 file = "kubejs/client_scripts/bees.js"
 hash = "64668a2674032cf6408d84daf4d5f78e7eb3bdd8dfe1b11308f855bf1c89dde7"
 
