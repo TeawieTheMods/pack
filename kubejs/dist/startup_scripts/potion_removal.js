@@ -1,1 +1,0 @@
-(()=>{MoreJSEvents.registerPotionBrewing(o=>{o.removeByPotion(null,null,"apotheosis:flying"),o.removeByPotion(null,null,"apotheosis:long_flying"),o.removeByPotion(null,null,"apotheosis:extra_long_flying")});})();
