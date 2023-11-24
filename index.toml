@@ -41,6 +41,42 @@ file = "kubejs/client_scripts/tooltips.js"
 hash = "ead7f6d39fac93f6f47d3d356ebbde7adf5c9eee1796d60eb0d22933909ad811"
 
 [[files]]
+file = "kubejs/dist/client_scripts/bees.js"
+hash = "64668a2674032cf6408d84daf4d5f78e7eb3bdd8dfe1b11308f855bf1c89dde7"
+
+[[files]]
+file = "kubejs/dist/client_scripts/tooltips.js"
+hash = "ead7f6d39fac93f6f47d3d356ebbde7adf5c9eee1796d60eb0d22933909ad811"
+
+[[files]]
+file = "kubejs/dist/server_scripts/apotheosis.js"
+hash = "9f98f34c26189fcb700dfbc1b74c5d1eb454d401da3ae07b4c7b5ce84657e76c"
+
+[[files]]
+file = "kubejs/dist/server_scripts/bees.js"
+hash = "91d75f3dfbb182d2c65e48a4bd02703610054f4e7bb0d5f03bea281dc22d0302"
+
+[[files]]
+file = "kubejs/dist/server_scripts/fishing.js"
+hash = "3978103d7b4d9aceb524131ca7b9e03da62e5712edbb710cdb39f077de99e6f0"
+
+[[files]]
+file = "kubejs/dist/server_scripts/powah.js"
+hash = "39d1ecec51c1d5b038612f51e7b6d1575ed8867b17a941400d1bbd22e21af072"
+
+[[files]]
+file = "kubejs/dist/server_scripts/recipe_removal.js"
+hash = "feabe1de4ab4248ac9142a15042d5918fb399e92c80c21395ecf701489d60374"
+
+[[files]]
+file = "kubejs/dist/server_scripts/the_big_book_of_fuck_my_life.js"
+hash = "c0de17a45b4ccc7a654dcb8535938cfdf920d4ba6e0e4705d51da0be9dd9ff0d"
+
+[[files]]
+file = "kubejs/dist/startup_scripts/potion_removal.js"
+hash = "571f0640b90ecfc25fbbbce3170032b072870578d63e2eff329c07859ff83759"
+
+[[files]]
 file = "kubejs/server_scripts/apotheosis.js"
 hash = "9f98f34c26189fcb700dfbc1b74c5d1eb454d401da3ae07b4c7b5ce84657e76c"
 
