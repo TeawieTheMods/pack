@@ -1,8 +1,8 @@
 name = "Botania"
-filename = "Botania-1.20.1-441-FORGE-20231108.014448-97.jar"
+filename = "Botania-1.20.1-441-FORGE-20231124.185248-111.jar"
 side = "both"
 
 [download]
-url = "https://maven.blamejared.com/vazkii/botania/Botania/1.20.1-441-FORGE-SNAPSHOT/Botania-1.20.1-441-FORGE-20231108.014448-97.jar"
+url = "https://maven.blamejared.com/vazkii/botania/Botania/1.20.1-441-FORGE-SNAPSHOT/Botania-1.20.1-441-FORGE-20231124.185248-111.jar"
 hash-format = "sha256"
-hash = "ce71a14bfb3cfd7b6e89537b52f6eb23591e5a63cea39b248f11c6b712f9cacd"
+hash = "99d8e73cf878dbbad4e6207a4865b15e8e0650641074d40767cd3b82355fdade"

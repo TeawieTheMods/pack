@@ -6,8 +6,3 @@ side = "both"
 url = "https://cdn.modrinth.com/data/6VdDUivB/versions/ULfZZ1RQ/essential_commands-0.33.2-mc1.20.jar"
 hash-format = "sha512"
 hash = "eb7e13792696e9d330342973a65740e395b86bd059afa6aba37a9e91f8857e774e8d06f9f8c6f58542b4911d332aebbddf8a9b790045896b5545ce44af1b888e"
-
-[update]
-[update.modrinth]
-mod-id = "6VdDUivB"
-version = "ULfZZ1RQ"

@@ -1,0 +1,13 @@
+name = "OAuth"
+filename = "oauth-1.1.15-1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K8pn1qHf/versions/k9Al7fqq/oauth-1.1.15-1.20.jar"
+hash-format = "sha512"
+hash = "ac7849ae3c5e2afe130682853ccdec2048e94ae6acc830e654b30446e68efc8f9215a879fcaebe668c660584b6911806970f40ff94f6a11cc424cd0ce54c5625"
+
+[update]
+[update.modrinth]
+mod-id = "K8pn1qHf"
+version = "k9Al7fqq"

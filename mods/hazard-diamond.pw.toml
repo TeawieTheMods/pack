@@ -6,8 +6,3 @@ side = "both"
 url = "https://cdn.modrinth.com/data/L85Kwl96/versions/QSAMuz9m/hdiamond-2.1.0%2B1.20.jar"
 hash-format = "sha1"
 hash = "641c561775691aa0cdb4d383a76762b9b2e9b8ee"
-
-[update]
-[update.modrinth]
-mod-id = "L85Kwl96"
-version = "QSAMuz9m"

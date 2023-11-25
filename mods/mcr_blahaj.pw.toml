@@ -6,8 +6,3 @@ side = "both"
 url = "https://cdn.modrinth.com/data/faitfqhg/versions/mNq5VDBs/blahaj_1.20-0.2.0.jar"
 hash-format = "sha1"
 hash = "27f7682f229e4d29e7e7032d0f3b472b603e6d00"
-
-[update]
-[update.modrinth]
-mod-id = "faitfqhg"
-version = "mNq5VDBs"

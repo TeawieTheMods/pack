@@ -1,13 +1,13 @@
 name = "Moonlight Lib"
-filename = "moonlight-1.20-2.8.65-forge.jar"
+filename = "moonlight-1.20-2.8.66-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/twkfQtEc/versions/xFsTt0Ku/moonlight-1.20-2.8.65-forge.jar"
-hash-format = "sha1"
-hash = "48c2c8591b3687d0c2587bdfc31317b63e786dfc"
+url = "https://cdn.modrinth.com/data/twkfQtEc/versions/AgF88xAa/moonlight-1.20-2.8.66-forge.jar"
+hash-format = "sha512"
+hash = "0cad34df74486fe318866dd54342aa358cadb0cfd0572b3365089903b634d0a9aaf2b046b3d9b82e6db8e116b8146fbbe6da14318be19874c0660a6c8bdaa8ff"
 
 [update]
 [update.modrinth]
 mod-id = "twkfQtEc"
-version = "xFsTt0Ku"
+version = "AgF88xAa"

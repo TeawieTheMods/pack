@@ -1,13 +1,13 @@
 name = "Almost Unified"
-filename = "almostunified-forge-1.20.1-0.7.1.jar"
+filename = "almostunified-forge-1.20.1-0.7.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sdaSaQEz/versions/WpnR2Tvd/almostunified-forge-1.20.1-0.7.1.jar"
-hash-format = "sha1"
-hash = "95b0d821266308affa1b3f73789302c8e82704cf"
+url = "https://cdn.modrinth.com/data/sdaSaQEz/versions/ybQ1TnE4/almostunified-forge-1.20.1-0.7.2.jar"
+hash-format = "sha512"
+hash = "d76323c10136860357adfd19ca8f680728fd1178857f225d412e006d3323686181e3ece014f1d308bf15485888efadb9d397c4bb07090872aed9c9d23f3bc76e"
 
 [update]
 [update.modrinth]
 mod-id = "sdaSaQEz"
-version = "WpnR2Tvd"
+version = "ybQ1TnE4"
