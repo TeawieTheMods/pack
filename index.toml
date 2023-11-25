@@ -138,6 +138,10 @@ file = "mods/CTM_DEV-1.20.1-1.1.8+8d8f8cc.jar"
 hash = "d7b5c5520333cbd8dc20920960b7abdbaada16b1d1fa7acd8a821846e9144810"
 
 [[files]]
+file = "mods/Patchouli-1.20.1-83-FORGE.jar"
+hash = "302ad73e9e7e0b1105ca0bdade9495141a3a13aa84280bcd6ca943aaec9b8fcc"
+
+[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 hash = "ab67434c8bc0d9dd724138ea930299e913b76dddfbb189c4e1a21f7e8c3e80cb"
 metafile = true
@@ -1354,11 +1358,6 @@ metafile = true
 [[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "b8d8a5cc49fc6bf325bc38c841d4d532c19c0f0805b2d64c932c6f831814beb9"
-metafile = true
-
-[[files]]
-file = "mods/patchouli.pw.toml"
-hash = "e96c504e1dfde7b2029a73467ce7733b4773c1992aeaee60f218e4d80d4d6a46"
 metafile = true
 
 [[files]]
