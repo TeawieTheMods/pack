@@ -37,6 +37,46 @@ file = "defaultconfigs/solcarrot-server.toml"
 hash = "30ca99bb7d9c159a3c5100719c49c712e79698ed6f9609fd832d09700736df3a"
 
 [[files]]
+file = "kubejs/assets/minecraft/texts/splashes.txt"
+hash = "37feaadde12b593fad5f41bfdf0f4328d1b8e4f8b9cccd3fc14e138d8b6a5b26"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "e252e4cac3665ed2036f922117317c7dbcbed3ab2830d86f5a305aa7974c8ccf"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "e81418e7be696620a86ae13bebf073c78c27b476fc00c0320394b3e9377ae08c"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "4d0c8ccff23f331ecbc0df5b6d0ddcd111db58e9237378ea28a3b5dc95249f2a"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "2cd17aff976c5f5fb13eefec5a7adf73ab0b024f3fe0fb21410dc3b017279b77"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "82c96e561ba8723f0df63c7fdfa6f7df2660c94976b740fbef420ec0d901af55"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "896c73e09b544c19d0ae3963349a1bcf7d42337a0e185e246e6fe15e95e84899"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_overlay.png"
+hash = "0a701b70b1d43b160173e27eaffd86754d4836a0ecfead917d0c8104e135c35c"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/edition.png"
+hash = "0305fc771e38fffe2a924091b9312092e3a17822698f1455861c66d0f8979190"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "655843262df6a71c2420236640846eadfc5a37583341c4c186a71befd107f26e"
+
+[[files]]
 file = "kubejs/client_scripts/bees.js"
 hash = "64668a2674032cf6408d84daf4d5f78e7eb3bdd8dfe1b11308f855bf1c89dde7"
 
@@ -57,12 +97,20 @@ file = "kubejs/server_scripts/fishing.js"
 hash = "3978103d7b4d9aceb524131ca7b9e03da62e5712edbb710cdb39f077de99e6f0"
 
 [[files]]
+file = "kubejs/server_scripts/orechid.js"
+hash = "a35f612b30dd0fb0d7cba3c28622910169cb94602adc34ffa286cab04938950d"
+
+[[files]]
 file = "kubejs/server_scripts/powah.js"
 hash = "39d1ecec51c1d5b038612f51e7b6d1575ed8867b17a941400d1bbd22e21af072"
 
 [[files]]
 file = "kubejs/server_scripts/recipe_removal.js"
 hash = "feabe1de4ab4248ac9142a15042d5918fb399e92c80c21395ecf701489d60374"
+
+[[files]]
+file = "kubejs/server_scripts/shrinking.js"
+hash = "dfb041701f8c5a3cbe92ea62c2724f54324cc55006e38678a80b4b9561045900"
 
 [[files]]
 file = "kubejs/server_scripts/the_big_book_of_fuck_my_life.js"
