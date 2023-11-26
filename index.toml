@@ -1415,6 +1415,11 @@ hash = "e3521eba53b51849f12b34ee0fd9facddededf487cf719e37ada07b92034c184"
 metafile = true
 
 [[files]]
+file = "mods/pressalttomeow.pw.toml"
+hash = "bb1ce7c591fd1969cf78df343a942d63ab4c5138a9f49379cc0cab013e08967a"
+metafile = true
+
+[[files]]
 file = "mods/probejs.pw.toml"
 hash = "6a8621c099111247d7d93f7c4b3d233ad5c1cd73350f40805b6de0a3c2a7d855"
 metafile = true
