@@ -666,11 +666,6 @@ hash = "3223636654b690a235a48dc94af6ab52fb09522d3c75ef192905c2baf1dc5b47"
 metafile = true
 
 [[files]]
-file = "mods/e4mc.pw.toml"
-hash = "701c111cd7990a5a80eaf1f255793cae5da754acc888b10ced61a58b49c7039d"
-metafile = true
-
-[[files]]
 file = "mods/ears.pw.toml"
 hash = "33b44f9dd0b1fef2c70b7dfa2579762051df57b13c78535be927a40dd4cf98a6"
 metafile = true
@@ -1631,7 +1626,7 @@ metafile = true
 
 [[files]]
 file = "mods/teawieks-1.0.0.jar"
-hash = "bb0c71273f7cc1e2b803222c5fa4389a3f5e84e3ba35fd6cfd869cd014c0cad4"
+hash = "a5dedf82004307a827ac245a1cbd279096f2575a69ba216f038ad58aa1a83011"
 
 [[files]]
 file = "mods/terrablender.pw.toml"
