@@ -387,6 +387,11 @@ hash = "958d92f2c763942e7846f4c77b675c126cc8738a1dbc1a6f53390fa0d44b1a10"
 metafile = true
 
 [[files]]
+file = "mods/canary.pw.toml"
+hash = "1a060877e79455b31a20e165adb356a517c161eacf3ae503de2fa515e79dea0a"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "7202ebfb8fb84656533749a681d5e7bc033628f94969e603def147537c454faa"
 metafile = true
