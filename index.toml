@@ -668,11 +668,6 @@ hash = "d616c26d95b6e468c5b1b6be91b7cb5537b8039d270395abaca3675aa03f97f7"
 metafile = true
 
 [[files]]
-file = "mods/drogstyle.pw.toml"
-hash = "3cb69f9380e633b3187fef3c0855ffc8f8bee0477626d37329ba8a90c8c20ec9"
-metafile = true
-
-[[files]]
 file = "mods/ducky-periphs.pw.toml"
 hash = "3223636654b690a235a48dc94af6ab52fb09522d3c75ef192905c2baf1dc5b47"
 metafile = true
@@ -1619,11 +1614,6 @@ metafile = true
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "6273cbc248e4a0578d8d8e43c2d2cab98102b5bac0313f792c50f57721c3188d"
-metafile = true
-
-[[files]]
-file = "mods/styled-nicknames.pw.toml"
-hash = "8319bbf81dd82560d93bc457d25a09a53c8f44ee3be8bc8a1104ad5b6dae5db8"
 metafile = true
 
 [[files]]
