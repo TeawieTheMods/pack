@@ -93,6 +93,10 @@ file = "kubejs/server_scripts/bees.js"
 hash = "91d75f3dfbb182d2c65e48a4bd02703610054f4e7bb0d5f03bea281dc22d0302"
 
 [[files]]
+file = "kubejs/server_scripts/candlelight.js"
+hash = "cd757190bc8ec89630598163bd7acd60f7eb677d7c91b0cf04ca59c74e070e7d"
+
+[[files]]
 file = "kubejs/server_scripts/fishing.js"
 hash = "3978103d7b4d9aceb524131ca7b9e03da62e5712edbb710cdb39f077de99e6f0"
 
