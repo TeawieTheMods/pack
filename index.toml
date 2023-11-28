@@ -6,7 +6,7 @@ hash = "0ec847a9ebfe63a56bc44b3acd849908dad5feea569d9599d8a053f19a801145"
 
 [[files]]
 file = "config/EssentialCommands.properties"
-hash = "0e2c5fed291e0461b7ca648d79296d059cd2933b0ed9c36c7fbcac29d5e50d47"
+hash = "9fc034b91ae92cbea0e906818c98e9172730393a11b886c20fef633ac984b5e0"
 
 [[files]]
 file = "config/Mekanism/additions.toml"
@@ -264,11 +264,6 @@ hash = "219db8b20676139a72d7efd96884a2964955979447c82a1b06137d0e483bc5ab"
 metafile = true
 
 [[files]]
-file = "mods/argonauts.pw.toml"
-hash = "278c764f1a7f5dc8ad40b1f0d46369827c2c99c708fee0b25c337f93c86a4ae7"
-metafile = true
-
-[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "468cdc3ae6d5365eba53c499868a47384296167860e69769f970519e61217736"
 metafile = true
@@ -386,11 +381,6 @@ metafile = true
 [[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "d45de601e97a45920d5b22f954243dd9cb3bd8cb54167fc09dd9aefec41e8fcf"
-metafile = true
-
-[[files]]
-file = "mods/cadmus.pw.toml"
-hash = "d3c6afecbbba0ae3ffc8448d605ffd42bea775a9ae29734fec24ded32de4a035"
 metafile = true
 
 [[files]]
@@ -675,6 +665,11 @@ metafile = true
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "d616c26d95b6e468c5b1b6be91b7cb5537b8039d270395abaca3675aa03f97f7"
+metafile = true
+
+[[files]]
+file = "mods/drogstyle.pw.toml"
+hash = "3cb69f9380e633b3187fef3c0855ffc8f8bee0477626d37329ba8a90c8c20ec9"
 metafile = true
 
 [[files]]
@@ -1012,6 +1007,11 @@ metafile = true
 [[files]]
 file = "mods/jepp.pw.toml"
 hash = "3295b7cafc8aeb38fc13eecab409677c6e520e72e7c5b2a38923b181f05cafda"
+metafile = true
+
+[[files]]
+file = "mods/journey-pac.pw.toml"
+hash = "1d111a29ce85a87bc5c8dd4e9f2f12dfe6b63477cfbebb8aeca7650c0f8abdaa"
 metafile = true
 
 [[files]]
@@ -1358,6 +1358,11 @@ hash = "4a68abb339f8993d6e5809fe0255752837176dff9a28c27b70dfd9da939bf410"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "c57bf78e60a3637c4662ea59d38fbedbf82ba317997ea9813f4bf56191dc09cf"
+metafile = true
+
+[[files]]
 file = "mods/openblocks-elevator.pw.toml"
 hash = "9d66478fde6c978312f93734d481bcb9ae9c49b74cb4538fce58c65ef15d593c"
 metafile = true
@@ -1614,6 +1619,11 @@ metafile = true
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "6273cbc248e4a0578d8d8e43c2d2cab98102b5bac0313f792c50f57721c3188d"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "8319bbf81dd82560d93bc457d25a09a53c8f44ee3be8bc8a1104ad5b6dae5db8"
 metafile = true
 
 [[files]]
