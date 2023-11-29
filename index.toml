@@ -34,7 +34,7 @@ hash = "7f4d78fd4c63542416a37a802d7c0cfddbc6af36ba51b819ceabf1cb979dfd6a"
 
 [[files]]
 file = "defaultconfigs/curios-server.toml"
-hash = "457618b3cc8a8640820f1da24e23132f411719059d429854356b06a48b85b60b"
+hash = "640ac921ad833d84a40acd402e6e5bebc8013f60b169c3d1f88e8d6c7c8c0303"
 
 [[files]]
 file = "defaultconfigs/solcarrot-server.toml"

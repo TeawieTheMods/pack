@@ -8,3 +8,4 @@ keepCurios = "DEFAULT"
 [[curiosSettings]]
 identifier = "curio"
 size = 8
+visible = true
