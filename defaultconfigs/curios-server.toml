@@ -6,6 +6,53 @@
 keepCurios = "DEFAULT"
 
 [[curiosSettings]]
-identifier = "curio"
-size = 8
-visible = true
+  identifier = "head"
+  size = 4
+  override = true
+  visible = true  
+[[curiosSettings]]
+  identifier = "necklace"
+  size = 2
+  override = true
+  visible = true
+[[curiosSettings]]
+  identifier = "back"
+  size = 2
+  override = true
+  visible = true
+[[curiosSettings]]
+  identifier = "body"
+  size = 2
+  override = true
+  visible = true
+[[curiosSettings]]
+  identifier = "hands"
+  size = 2
+  override = true
+  visible = true
+[[curiosSettings]]
+  identifier = "ring"
+  size = 4
+  override = true
+  visible = true
+[[curiosSettings]]
+  identifier = "belt"
+  size = 2
+  override = true
+  visible = true
+[[curiosSettings]]
+  identifier = "feet"
+  size = 2
+  override = true
+  visible = true
+[[curiosSettings]]
+  identifier = "charm"
+  size = 4
+  override = true
+  visible = true
+[[curiosSettings]]
+  identifier = "curio"
+  size = 4
+  override = true
+  visible = true
+  priority = 1000
