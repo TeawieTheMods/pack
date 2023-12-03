@@ -751,11 +751,6 @@ hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
 metafile = true
 
 [[files]]
-file = "mods/essential-commands.pw.toml"
-hash = "a81b43dd487aa0c49920410176402bfe9eec272fbca7c5ded2176b6f87a3b256"
-metafile = true
-
-[[files]]
 file = "mods/extractinator.pw.toml"
 hash = "fd1a792c34d8ad2183ba749839c19072af2bfbe502d84d720067a929ccf492fd"
 metafile = true
@@ -1651,7 +1646,7 @@ metafile = true
 
 [[files]]
 file = "mods/teawieks-1.0.0.jar"
-hash = "a5dedf82004307a827ac245a1cbd279096f2575a69ba216f038ad58aa1a83011"
+hash = "fe94c96c4fa4a02d1b0019958b23505d8ee3892da09c7f61b3cdc5c3e311a586"
 
 [[files]]
 file = "mods/terrablender.pw.toml"
