@@ -1646,7 +1646,7 @@ metafile = true
 
 [[files]]
 file = "mods/teawieks-1.0.0.jar"
-hash = "8e645aa315a65586b8ae3b502e497acda5f8ad2514acf76b8cc8baf440b10c96"
+hash = "55aa2fb4f6bcabdab084a7264bb29dfc31113218ab1a250ae5e268572b6f63bb"
 
 [[files]]
 file = "mods/terrablender.pw.toml"
