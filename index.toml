@@ -34,7 +34,7 @@ hash = "7f4d78fd4c63542416a37a802d7c0cfddbc6af36ba51b819ceabf1cb979dfd6a"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-server.toml"
-hash = "2c873ae25791e99354316605cb2c7eff9b1ae465f5bff4d3ddb53526a1be68a0"
+hash = "0ffc737d58a4bd6b1d8c6eff1b4d656f1d0c9c132c314624ef93fa69a81d3cf1"
 
 [[files]]
 file = "defaultconfigs/solcarrot-server.toml"
