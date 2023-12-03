@@ -150,10 +150,6 @@ file = "mods/AdvancedPeripherals-1.20.1-0.7.33b_PATCHED.jar"
 hash = "d0afcc853989204d3b455e9e99b232fce65e8b646bea90a9d2c7f4b29b3d61b0"
 
 [[files]]
-file = "mods/Applied-Botanics-forge-1.5.0.jar"
-hash = "62d3bbb47a2e147cc5afb84ff6e70ad6acd9627364badee89137ea21221d42e7"
-
-[[files]]
 file = "mods/CTM_DEV-1.20.1-1.1.8+8d8f8cc.jar"
 hash = "d7b5c5520333cbd8dc20920960b7abdbaada16b1d1fa7acd8a821846e9144810"
 
@@ -244,6 +240,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
+metafile = true
+
+[[files]]
+file = "mods/applied-botanics.pw.toml"
+hash = "9670211043e3f424c03b4efe769e4d786d0c14d4d3d83129eea7eb02caf0604d"
 metafile = true
 
 [[files]]
@@ -368,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "a7b1adc4db10bac244aab9a5ea8b33e2cf75a7972d29f8846b72c1be1c7113a4"
+hash = "190c10c8d9373cd4ec39dedd05f55d1ca836abc5f1abbb0ee0982be9e8184bfb"
 metafile = true
 
 [[files]]
