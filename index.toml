@@ -407,6 +407,11 @@ hash = "7202ebfb8fb84656533749a681d5e7bc033628f94969e603def147537c454faa"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "ded75a2dd4ee0ea57454d080652099f759ff222a17c6f7daa86df944daf5ad04"
+metafile = true
+
+[[files]]
 file = "mods/carryon-2.1.2.5-FIXED.jar"
 hash = "7697f1da4dda19c1b8219f170978957df489eaaae56ea101c3e9ee52cf203128"
 
