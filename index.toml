@@ -1456,11 +1456,6 @@ hash = "7d9394525943d9c5bc49ea31f8368b10b59cbb6c72ae06f9569110a7d75f0544"
 metafile = true
 
 [[files]]
-file = "mods/radium.pw.toml"
-hash = "fd2c664fa12ed30ff71cf58cbc9e32265cd92b892640ff9bb415e924f48fb942"
-metafile = true
-
-[[files]]
 file = "mods/rats.pw.toml"
 hash = "b866bd3d88a52bb8a83c6552f84a94b0f364b002a22859cf38f8cddf72d1b20e"
 metafile = true
