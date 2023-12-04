@@ -1,13 +1,13 @@
 name = "Pipez"
-filename = "pipez-1.20.1-1.2.4.jar"
+filename = "pipez-1.20.1-1.2.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/iRmWy6ga/versions/VR3w5OvL/pipez-1.20.1-1.2.4.jar"
+url = "https://cdn.modrinth.com/data/iRmWy6ga/versions/8EQVMftD/pipez-1.20.1-1.2.5.jar"
 hash-format = "sha1"
-hash = "b0a76caaa4962ebe1db77e99b5602f48eeed3420"
+hash = "ab9ba8da99fc12f4c4059363c82583b4a175389e"
 
 [update]
 [update.modrinth]
 mod-id = "iRmWy6ga"
-version = "VR3w5OvL"
+version = "8EQVMftD"

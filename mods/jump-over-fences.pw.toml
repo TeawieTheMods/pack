@@ -1,13 +1,13 @@
 name = "Jump Over Fences"
-filename = "jumpoverfences-forge-1.20.1-1.3.0.jar"
+filename = "jumpoverfences-forge-1.20.1-1.3.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4HeIHvIP/versions/iE6y8072/jumpoverfences-forge-1.20.1-1.3.0.jar"
+url = "https://cdn.modrinth.com/data/4HeIHvIP/versions/JO0gOoeH/jumpoverfences-forge-1.20.1-1.3.1.jar"
 hash-format = "sha1"
-hash = "7f793c979c570a0cc1ccf14ea85a219d1af799d2"
+hash = "48ab84f3de13f87924b595bcd0d12e94114699b8"
 
 [update]
 [update.modrinth]
 mod-id = "4HeIHvIP"
-version = "iE6y8072"
+version = "JO0gOoeH"
