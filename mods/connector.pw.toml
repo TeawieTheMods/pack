@@ -3,9 +3,9 @@ filename = "Connector-1.0.0-beta.28+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/u58R1TMW/versions/XLGFwwHh/Connector-1.0.0-beta.28%2B1.20.1.jar"
+url = "https://cdn.discordapp.com/attachments/1181338172664328274/1181407207095537774/Connector-1.0.0-beta.291.20.1dev-g5dc3f11.jar?ex=6580f233&is=656e7d33&hm=46d28eb0b316887a215dab443a6c1f2d3928e1c6183d48f821e88592696acc5c&"
 hash-format = "sha1"
-hash = "19af6e73471c5a6cdc67852e652f4a4400d4308c"
+hash = "749aa95294bc6ff098df1a99f70fa8696c172124"
 
 [update]
 [update.modrinth]
