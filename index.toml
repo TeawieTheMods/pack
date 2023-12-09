@@ -896,7 +896,7 @@ hash = "2ddce02b33acd981ae357d3913a46d083c67baed91488126fa1d8b8434950e3a"
 
 [[files]]
 file = "mods/hexcasting-forge-1.20.1-0.11.1-7.jar"
-hash = "6350c35f920797f2798474afde9ee33b79173e586de37128430fbc6ad6da490f"
+hash = "354b2313e6511e108cc89a77e1ba5cee0101ea266013be02aa75e74861e7e1cb"
 
 [[files]]
 file = "mods/hostile-neural-networks.pw.toml"
@@ -1637,7 +1637,7 @@ metafile = true
 
 [[files]]
 file = "mods/teawieks-1.0.0.jar"
-hash = "55aa2fb4f6bcabdab084a7264bb29dfc31113218ab1a250ae5e268572b6f63bb"
+hash = "fe61bcde8fbccd011b7a251b409edfe217b7a88f0e22d2cbec4117c31625fed9"
 
 [[files]]
 file = "mods/terrablender.pw.toml"
