@@ -1,8 +1,8 @@
 name = "PneumaticCraft: Repressurized"
-filename = "pneumaticcraft-repressurized-6.0.11+mc1.20.1.jar"
+filename = "pneumaticcraft-repressurized-6.0.12+mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ncAcdgk7/versions/u7bkB6Cg/pneumaticcraft-repressurized-6.0.11%2Bmc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/ncAcdgk7/versions/mcrdWaCP/pneumaticcraft-repressurized-6.0.12%2Bmc1.20.1.jar"
 hash-format = "sha512"
-hash = "764880e7f80f888eb9efcf2f61654fb2e9751d38eab9627320ac50d3d5afdf71ead61059c4ecd99b27b49782eff81463207a998e864c555133005e7707e1a3f7"
+hash = "e950aa97f2ab02472f84f289e1e4c96fd53de49afe1d9ee7b0a112c654f56b9627bb9a1d210970bb4b0e9c6d9d3f0217e415a3d2b7328fe52c24abcd839f730e"

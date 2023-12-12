@@ -1,13 +1,13 @@
 name = "Diagonal Fences"
-filename = "DiagonalFences-v8.1.2-1.20.1-Forge.jar"
+filename = "DiagonalFences-v8.1.3-1.20.1-Forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IKARgflD/versions/U3MMmaF4/DiagonalFences-v8.1.2-1.20.1-Forge.jar"
-hash-format = "sha1"
-hash = "428c381966bf6d1a283c6d77d50e479f9ba293fd"
+url = "https://cdn.modrinth.com/data/IKARgflD/versions/1ZcXawzq/DiagonalFences-v8.1.3-1.20.1-Forge.jar"
+hash-format = "sha512"
+hash = "631fe051a0bc7ee7aeec48b29eb309e71cfa702a5d4f8e37b1a26c3c220d4bf0410d19d16cfa06921d71d75f9640eb9afa201fbfc62fa460cf88ecb6798c58ed"
 
 [update]
 [update.modrinth]
 mod-id = "IKARgflD"
-version = "U3MMmaF4"
+version = "1ZcXawzq"
